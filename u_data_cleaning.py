@@ -31,3 +31,21 @@ def parse_group_lessons(row, cardio_classes = ['Running', 'Les Miles', 'HIT', 'S
                           'ratio_cardio': 0.0, 
                           'ratio_strength': 0.0, 
                           'ratio_mind_body': 0.0})
+    
+
+def calculate_weekend_ratio(days_str):
+    if pd.isna(days_str) or not isinstance(days_str, str) or days_str.strip() == "":
+        return 0.0
+
+    days_list = [day.strip() for day in days_str.split(",")]
+
+    total_days = len(days_list)
+    if total_days == 0:
+        return 0.0
+
+  
+    weekend_days = ["Sat", "Sun"]
+    weekend_count = sum(1 for day in days_list if day in weekend_days)
+
+    
+    return weekend_count / total_days
