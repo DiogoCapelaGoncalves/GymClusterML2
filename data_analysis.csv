@@ -1,1001 +1,1001 @@
-gender,abonoment_type,name_personal_trainer,uses_sauna,fav_drink
-Female,Premium,No one,True,
-Female,Standard,Chantal,False,
-Male,Premium,Mike,False,"berry_boost, lemon"
-Male,Premium,Mike,True,passion_fruit
-Male,Standard,Mike,False,
-Female,Standard,No one,True,
-Male,Premium,No one,False,
-Male,Standard,No one,True,coconut_pineapple
-Male,Premium,Mike,False,"orange, lemon"
-Female,Premium,Jeffrey,True,
-Male,Standard,Hanna,False,
-Male,Premium,Mike,True,passion_fruit
-Female,Standard,No one,True,passion_fruit
-Female,Premium,No one,False,black_currant
-Female,Premium,Mike,False,"orange, black_currant"
-Female,Standard,No one,False,
-Male,Premium,Jeffrey,True,
-Female,Standard,Mike,True,
-Female,Standard,Hanna,True,orange
-Male,Premium,No one,False,
-Female,Premium,Hanna,False,
-Male,Premium,No one,True,lemon
-Female,Standard,Mike,False,"passion_fruit, orange"
-Male,Premium,Jeffrey,True,"lemon, coconut_pineapple"
-Female,Premium,No one,False,
-Male,Standard,Chantal,False,coconut_pineapple
-Male,Premium,No one,False,"berry_boost, passion_fruit"
-Male,Standard,Chantal,False,berry_boost
-Female,Premium,No one,True,orange
-Female,Premium,No one,True,"orange, coconut_pineapple"
-Male,Premium,Jeffrey,True,
-Male,Standard,No one,False,"black_currant, lemon"
-Female,Premium,Chantal,True,
-Female,Premium,Hanna,True,
-Male,Premium,Mike,True,
-Male,Standard,No one,True,orange
-Female,Standard,No one,False,
-Female,Premium,No one,False,
-Male,Premium,No one,False,"coconut_pineapple, berry_boost"
-Female,Premium,No one,True,"passion_fruit, black_currant"
-Female,Premium,Hanna,True,coconut_pineapple
-Female,Standard,No one,False,
-Female,Premium,Chantal,False,"black_currant, lemon"
-Female,Standard,Hanna,True,"coconut_pineapple, passion_fruit"
-Male,Premium,Hanna,True,
-Female,Standard,Hanna,False,
-Male,Standard,No one,False,
-Male,Premium,Jeffrey,True,
-Female,Premium,Chantal,True,
-Female,Premium,No one,True,"black_currant, passion_fruit"
-Male,Standard,No one,True,"coconut_pineapple, passion_fruit"
-Male,Premium,No one,True,
-Female,Premium,No one,False,
-Female,Standard,Mike,False,"orange, berry_boost"
-Male,Standard,Chantal,True,black_currant
-Male,Standard,No one,True,
-Female,Standard,No one,False,
-Male,Premium,Chantal,True,
-Male,Premium,No one,True,
-Female,Standard,Chantal,True,orange
-Female,Premium,Chantal,False,
-Female,Standard,Chantal,True,
-Male,Standard,No one,True,"passion_fruit, coconut_pineapple"
-Female,Premium,Hanna,True,"lemon, berry_boost"
-Female,Standard,No one,True,
-Female,Premium,No one,True,
-Female,Premium,No one,False,
-Male,Standard,Mike,True,"berry_boost, coconut_pineapple"
-Male,Premium,No one,False,passion_fruit
-Female,Premium,No one,True,
-Male,Premium,Hanna,True,
-Male,Premium,Mike,True,black_currant
-Male,Premium,Chantal,False,berry_boost
-Male,Standard,No one,True,passion_fruit
-Female,Standard,No one,False,
-Male,Premium,Mike,True,
-Female,Premium,Hanna,False,
-Male,Premium,Mike,False,berry_boost
-Female,Standard,No one,False,
-Female,Standard,Jeffrey,True,
-Male,Standard,Mike,True,berry_boost
-Male,Standard,No one,False,
-Male,Premium,No one,False,coconut_pineapple
-Male,Standard,No one,False,"black_currant, lemon"
-Female,Premium,No one,False,
-Female,Standard,Chantal,False,
-Male,Premium,Chantal,True,
-Female,Premium,No one,True,"passion_fruit, black_currant"
-Female,Standard,No one,True,
-Female,Standard,No one,True,"lemon, berry_boost"
-Female,Premium,No one,False,berry_boost
-Male,Standard,Chantal,False,
-Female,Standard,No one,True,
-Female,Standard,Chantal,True,coconut_pineapple
-Female,Standard,No one,True,berry_boost
-Male,Standard,No one,True,
-Male,Premium,No one,False,
-Male,Premium,Jeffrey,False,coconut_pineapple
-Female,Premium,Hanna,True,
-Female,Premium,No one,True,
-Male,Standard,Jeffrey,True,black_currant
-Female,Standard,Mike,False,
-Male,Standard,Chantal,False,lemon
-Female,Premium,Mike,True,coconut_pineapple
-Female,Premium,Mike,True,"passion_fruit, berry_boost"
-Male,Premium,No one,False,"orange, black_currant"
-Female,Standard,No one,False,coconut_pineapple
-Female,Standard,Chantal,False,
-Female,Premium,No one,False,
-Female,Premium,No one,True,
-Female,Standard,No one,False,
-Male,Standard,No one,False,
-Female,Premium,Chantal,False,
-Female,Premium,Jeffrey,True,
-Female,Premium,Jeffrey,False,
-Male,Premium,No one,True,orange
-Male,Standard,No one,False,"berry_boost, lemon"
-Male,Standard,No one,False,
-Male,Premium,Jeffrey,False,
-Female,Standard,Chantal,True,passion_fruit
-Female,Premium,No one,False,"lemon, black_currant"
-Female,Premium,No one,True,
-Female,Standard,No one,False,
-Female,Premium,Hanna,False,
-Male,Standard,Jeffrey,False,
-Male,Standard,Chantal,True,
-Female,Standard,Hanna,True,
-Female,Premium,No one,False,"passion_fruit, orange"
-Male,Premium,Hanna,True,
-Male,Premium,Chantal,False,
-Male,Standard,Hanna,False,"lemon, passion_fruit"
-Male,Premium,Hanna,True,orange
-Male,Premium,No one,True,orange
-Female,Premium,Mike,True,
-Female,Standard,Mike,False,passion_fruit
-Female,Standard,No one,False,coconut_pineapple
-Female,Premium,No one,True,
-Male,Standard,No one,True,lemon
-Female,Standard,No one,False,
-Female,Standard,No one,True,"lemon, orange"
-Male,Premium,Mike,False,
-Female,Standard,No one,True,
-Female,Premium,Chantal,False,
-Male,Premium,Jeffrey,True,passion_fruit
-Female,Premium,No one,True,"lemon, passion_fruit"
-Female,Standard,Mike,True,"black_currant, passion_fruit"
-Male,Standard,No one,False,
-Male,Premium,Mike,False,"orange, berry_boost"
-Male,Standard,No one,False,
-Male,Premium,Mike,True,
-Male,Premium,No one,True,
-Male,Premium,Hanna,True,
-Male,Premium,Chantal,True,"passion_fruit, orange"
-Male,Standard,Mike,False,"lemon, black_currant"
-Male,Standard,Hanna,False,orange
-Female,Premium,Chantal,True,passion_fruit
-Female,Standard,Jeffrey,False,passion_fruit
-Male,Standard,Mike,True,orange
-Female,Standard,Hanna,False,
-Female,Premium,Hanna,True,
-Female,Standard,Chantal,False,"berry_boost, lemon"
-Male,Standard,No one,True,lemon
-Male,Premium,Jeffrey,True,berry_boost
-Male,Standard,No one,False,
-Male,Standard,Chantal,True,
-Male,Premium,Chantal,True,
-Female,Premium,No one,True,
-Male,Standard,No one,True,
-Female,Premium,No one,False,
-Male,Standard,Mike,False,"passion_fruit, lemon"
-Female,Standard,Hanna,False,lemon
-Female,Standard,No one,False,
-Male,Standard,No one,True,black_currant
-Male,Premium,No one,True,
-Male,Standard,No one,False,
-Male,Standard,No one,False,
-Female,Premium,Chantal,False,"berry_boost, coconut_pineapple"
-Male,Premium,Chantal,False,
-Female,Standard,No one,False,
-Male,Premium,Jeffrey,True,passion_fruit
-Male,Premium,No one,True,"lemon, black_currant"
-Female,Standard,Chantal,True,
-Male,Premium,No one,True,
-Male,Standard,Hanna,False,
-Male,Standard,No one,False,berry_boost
-Female,Standard,Mike,True,passion_fruit
-Male,Standard,Mike,False,"lemon, orange"
-Female,Premium,No one,False,"lemon, coconut_pineapple"
-Male,Premium,No one,True,
-Male,Standard,No one,False,
-Male,Premium,No one,False,
-Female,Standard,No one,True,
-Female,Premium,No one,True,
-Female,Premium,No one,False,"passion_fruit, berry_boost"
-Male,Premium,No one,True,"black_currant, coconut_pineapple"
-Male,Premium,Jeffrey,False,lemon
-Male,Standard,Mike,False,"coconut_pineapple, black_currant"
-Male,Premium,Jeffrey,True,coconut_pineapple
-Female,Premium,Jeffrey,True,coconut_pineapple
-Male,Standard,Jeffrey,True,"orange, passion_fruit"
-Male,Standard,Mike,False,"black_currant, coconut_pineapple"
-Male,Premium,No one,False,black_currant
-Female,Premium,Chantal,True,"passion_fruit, coconut_pineapple"
-Male,Premium,Jeffrey,False,orange
-Male,Premium,Chantal,False,lemon
-Male,Standard,No one,False,"berry_boost, black_currant"
-Male,Standard,Chantal,False,
-Male,Premium,Jeffrey,True,"lemon, coconut_pineapple"
-Male,Premium,Hanna,False,coconut_pineapple
-Male,Premium,Chantal,False,lemon
-Female,Standard,Chantal,True,
-Male,Premium,No one,True,
-Male,Premium,No one,False,
-Female,Standard,Chantal,False,
-Female,Standard,No one,True,
-Male,Premium,Mike,False,lemon
-Male,Standard,Jeffrey,True,coconut_pineapple
-Female,Premium,No one,False,"coconut_pineapple, passion_fruit"
-Male,Standard,No one,True,
-Male,Premium,Mike,False,lemon
-Male,Premium,Chantal,True,passion_fruit
-Male,Premium,Mike,False,
-Male,Standard,No one,False,coconut_pineapple
-Female,Standard,No one,False,
-Male,Standard,No one,False,orange
-Male,Standard,No one,False,
-Female,Premium,Jeffrey,True,
-Male,Premium,Chantal,False,"berry_boost, orange"
-Male,Premium,No one,False,
-Male,Standard,No one,False,
-Male,Premium,No one,True,
-Male,Standard,Mike,False,lemon
-Female,Standard,No one,True,
-Female,Standard,No one,True,
-Female,Standard,Hanna,False,"lemon, black_currant"
-Female,Standard,No one,False,
-Female,Premium,Jeffrey,True,coconut_pineapple
-Female,Premium,No one,True,"coconut_pineapple, passion_fruit"
-Male,Standard,Jeffrey,True,
-Male,Premium,No one,False,passion_fruit
-Female,Premium,Hanna,False,passion_fruit
-Male,Premium,Mike,True,
-Female,Premium,Mike,False,berry_boost
-Female,Premium,Hanna,True,lemon
-Male,Standard,Jeffrey,False,
-Female,Premium,No one,False,
-Male,Standard,No one,True,coconut_pineapple
-Female,Premium,Mike,True,
-Female,Premium,No one,False,
-Male,Standard,No one,False,
-Male,Standard,No one,False,black_currant
-Female,Premium,No one,False,berry_boost
-Male,Premium,Jeffrey,False,lemon
-Male,Standard,No one,True,
-Male,Premium,Mike,True,coconut_pineapple
-Female,Premium,Mike,False,
-Male,Standard,No one,False,"coconut_pineapple, black_currant"
-Male,Standard,No one,True,"black_currant, passion_fruit"
-Female,Premium,Chantal,False,lemon
-Female,Standard,No one,False,coconut_pineapple
-Male,Standard,No one,True,
-Female,Premium,Chantal,True,black_currant
-Female,Standard,Jeffrey,True,
-Male,Standard,Hanna,True,
-Female,Standard,Mike,True,black_currant
-Female,Standard,No one,True,
-Female,Standard,No one,True,coconut_pineapple
-Male,Premium,Mike,False,
-Male,Premium,No one,False,
-Male,Standard,Mike,True,
-Male,Standard,Hanna,False,
-Male,Premium,Chantal,True,
-Male,Standard,Chantal,True,
-Female,Standard,No one,False,
-Male,Standard,No one,True,
-Male,Standard,No one,True,
-Female,Standard,Hanna,False,coconut_pineapple
-Male,Premium,Mike,True,"lemon, black_currant"
-Female,Standard,Hanna,False,lemon
-Male,Standard,Chantal,True,"coconut_pineapple, orange"
-Male,Premium,Chantal,True,
-Male,Standard,No one,True,black_currant
-Female,Premium,Mike,False,berry_boost
-Female,Standard,No one,False,
-Male,Premium,No one,False,lemon
-Male,Premium,Mike,False,"black_currant, coconut_pineapple"
-Male,Premium,No one,True,
-Male,Premium,No one,True,coconut_pineapple
-Female,Premium,Mike,True,
-Female,Standard,No one,False,
-Female,Premium,No one,True,berry_boost
-Male,Standard,No one,False,"passion_fruit, black_currant"
-Female,Premium,Hanna,True,"lemon, passion_fruit"
-Female,Premium,No one,False,
-Male,Standard,No one,False,"coconut_pineapple, orange"
-Female,Standard,No one,True,"lemon, passion_fruit"
-Male,Standard,Jeffrey,False,
-Female,Premium,Chantal,True,
-Female,Premium,Mike,False,"orange, passion_fruit"
-Male,Premium,No one,False,
-Female,Premium,Chantal,False,"coconut_pineapple, orange"
-Male,Standard,Jeffrey,True,
-Female,Standard,Hanna,True,
-Male,Standard,No one,False,
-Male,Standard,No one,False,
-Male,Standard,Chantal,True,lemon
-Female,Standard,Chantal,True,
-Female,Premium,No one,True,
-Male,Standard,Mike,True,
-Male,Standard,Chantal,True,
-Female,Standard,Chantal,False,"lemon, orange"
-Male,Premium,No one,False,
-Male,Standard,No one,True,"passion_fruit, coconut_pineapple"
-Male,Standard,No one,False,coconut_pineapple
-Male,Premium,Mike,True,
-Male,Standard,Chantal,True,"coconut_pineapple, lemon"
-Male,Premium,Chantal,False,berry_boost
-Male,Premium,Chantal,True,
-Male,Premium,No one,False,"lemon, black_currant"
-Female,Standard,Chantal,True,"lemon, berry_boost"
-Male,Premium,No one,False,"passion_fruit, coconut_pineapple"
-Male,Standard,Chantal,False,
-Male,Premium,Chantal,True,
-Female,Standard,Chantal,True,
-Male,Standard,No one,True,
-Female,Standard,No one,False,"coconut_pineapple, lemon"
-Female,Standard,No one,True,passion_fruit
-Female,Standard,No one,True,
-Male,Premium,No one,True,
-Female,Standard,No one,True,passion_fruit
-Female,Premium,No one,False,passion_fruit
-Female,Premium,No one,True,passion_fruit
-Male,Premium,Hanna,True,
-Male,Standard,No one,True,
-Female,Premium,No one,True,
-Female,Standard,Chantal,False,
-Male,Premium,Chantal,False,"orange, black_currant"
-Male,Premium,No one,False,"coconut_pineapple, passion_fruit"
-Female,Standard,Chantal,False,"passion_fruit, orange"
-Male,Premium,Jeffrey,False,
-Female,Standard,No one,True,
-Male,Standard,Jeffrey,True,coconut_pineapple
-Female,Premium,Mike,True,
-Female,Standard,No one,True,
-Male,Standard,Mike,False,
-Female,Premium,No one,False,
-Female,Standard,No one,True,
-Male,Standard,No one,False,"orange, berry_boost"
-Female,Standard,Jeffrey,False,
-Female,Standard,Jeffrey,False,passion_fruit
-Male,Standard,No one,False,
-Female,Standard,No one,False,
-Female,Premium,Mike,True,berry_boost
-Female,Premium,No one,True,
-Male,Standard,No one,False,
-Male,Standard,No one,True,
-Female,Standard,No one,False,"lemon, orange"
-Female,Standard,No one,False,
-Female,Standard,Hanna,False,
-Female,Standard,Jeffrey,False,
-Female,Standard,Mike,True,
-Female,Premium,No one,False,"passion_fruit, lemon"
-Male,Standard,Chantal,False,"lemon, berry_boost"
-Female,Standard,Chantal,True,
-Female,Premium,Hanna,True,passion_fruit
-Male,Standard,Chantal,False,coconut_pineapple
-Female,Standard,No one,False,"lemon, black_currant"
-Male,Premium,Chantal,False,
-Male,Premium,Jeffrey,True,black_currant
-Female,Premium,Hanna,True,black_currant
-Male,Premium,No one,True,
-Female,Premium,Jeffrey,True,"coconut_pineapple, black_currant"
-Female,Premium,No one,True,
-Female,Premium,Chantal,True,
-Male,Premium,Mike,False,
-Female,Premium,No one,False,"berry_boost, orange"
-Male,Premium,Mike,False,
-Male,Premium,No one,True,lemon
-Female,Premium,No one,False,
-Male,Standard,No one,False,berry_boost
-Male,Premium,No one,False,"lemon, coconut_pineapple"
-Male,Premium,Hanna,True,black_currant
-Female,Standard,Chantal,True,
-Female,Premium,No one,True,"coconut_pineapple, black_currant"
-Female,Premium,Hanna,False,"orange, lemon"
-Male,Premium,Hanna,True,
-Male,Premium,Jeffrey,True,black_currant
-Male,Standard,Jeffrey,False,
-Female,Premium,Chantal,True,
-Female,Standard,Hanna,False,
-Female,Standard,No one,True,"passion_fruit, berry_boost"
-Female,Standard,Jeffrey,False,
-Female,Standard,No one,False,"coconut_pineapple, passion_fruit"
-Female,Premium,Hanna,True,black_currant
-Female,Standard,Chantal,False,
-Female,Premium,No one,True,
-Female,Standard,No one,True,
-Female,Premium,Hanna,True,"coconut_pineapple, lemon"
-Male,Premium,Mike,True,
-Male,Standard,No one,True,
-Female,Premium,Hanna,True,black_currant
-Female,Premium,No one,True,orange
-Female,Premium,Chantal,False,passion_fruit
-Female,Premium,Chantal,True,"berry_boost, black_currant"
-Male,Premium,Jeffrey,False,lemon
-Female,Standard,Chantal,True,
-Female,Standard,No one,False,"lemon, black_currant"
-Male,Premium,Chantal,True,coconut_pineapple
-Female,Standard,Jeffrey,True,
-Male,Premium,Mike,True,
-Female,Standard,No one,False,
-Male,Standard,Chantal,False,berry_boost
-Male,Premium,Mike,True,
-Female,Standard,No one,False,
-Female,Premium,Chantal,True,
-Male,Premium,No one,True,
-Female,Standard,No one,True,coconut_pineapple
-Female,Premium,No one,False,"berry_boost, coconut_pineapple"
-Female,Premium,No one,False,
-Male,Premium,Hanna,False,"coconut_pineapple, black_currant"
-Female,Standard,Chantal,True,"orange, black_currant"
-Female,Standard,No one,False,
-Female,Premium,Chantal,True,
-Female,Premium,No one,True,coconut_pineapple
-Male,Premium,Chantal,False,
-Female,Premium,No one,False,
-Male,Premium,Mike,False,black_currant
-Female,Standard,No one,False,berry_boost
-Male,Standard,Jeffrey,True,"lemon, passion_fruit"
-Female,Standard,Chantal,False,coconut_pineapple
-Male,Premium,No one,True,"black_currant, orange"
-Male,Standard,Jeffrey,True,
-Female,Premium,No one,True,orange
-Female,Standard,No one,False,
-Female,Standard,Chantal,True,"passion_fruit, berry_boost"
-Male,Standard,Mike,False,
-Male,Premium,No one,True,coconut_pineapple
-Male,Premium,Mike,False,passion_fruit
-Male,Standard,Chantal,True,"orange, lemon"
-Male,Premium,No one,True,
-Female,Standard,No one,True,"lemon, berry_boost"
-Female,Standard,Hanna,False,
-Female,Standard,Jeffrey,True,
-Male,Standard,Hanna,True,
-Female,Premium,No one,False,black_currant
-Female,Standard,Jeffrey,True,"orange, berry_boost"
-Male,Premium,No one,True,"orange, lemon"
-Female,Premium,No one,False,"passion_fruit, black_currant"
-Female,Standard,No one,True,passion_fruit
-Male,Premium,No one,False,black_currant
-Female,Premium,Jeffrey,False,
-Female,Standard,Jeffrey,False,"lemon, black_currant"
-Female,Standard,Jeffrey,False,orange
-Female,Premium,Chantal,True,
-Female,Standard,Mike,False,
-Male,Standard,Chantal,True,
-Female,Premium,Hanna,False,berry_boost
-Female,Standard,Jeffrey,True,"orange, black_currant"
-Male,Standard,Jeffrey,False,
-Female,Premium,Jeffrey,False,
-Male,Premium,No one,True,"black_currant, orange"
-Male,Premium,No one,True,lemon
-Female,Standard,No one,False,
-Female,Premium,Hanna,True,
-Female,Standard,No one,True,orange
-Female,Premium,Jeffrey,True,berry_boost
-Male,Premium,Mike,True,
-Female,Premium,Chantal,True,
-Male,Premium,Jeffrey,False,
-Male,Premium,Chantal,True,"black_currant, orange"
-Female,Standard,Chantal,True,lemon
-Male,Standard,No one,True,"orange, lemon"
-Male,Standard,Mike,False,
-Male,Standard,Jeffrey,False,orange
-Male,Standard,Jeffrey,True,
-Male,Standard,Mike,True,orange
-Female,Premium,No one,False,berry_boost
-Female,Standard,Mike,True,
-Male,Premium,Chantal,True,berry_boost
-Male,Premium,No one,True,
-Female,Standard,No one,False,berry_boost
-Male,Premium,No one,False,passion_fruit
-Female,Premium,Mike,True,"black_currant, coconut_pineapple"
-Male,Standard,No one,False,"passion_fruit, orange"
-Male,Standard,No one,False,
-Male,Standard,Mike,True,"orange, coconut_pineapple"
-Female,Standard,Chantal,True,
-Male,Premium,Mike,False,
-Male,Premium,Mike,False,berry_boost
-Female,Standard,Chantal,False,
-Female,Premium,Jeffrey,False,
-Male,Standard,No one,True,
-Female,Standard,No one,False,black_currant
-Female,Standard,No one,True,"passion_fruit, orange"
-Male,Standard,No one,True,"passion_fruit, lemon"
-Male,Premium,Jeffrey,False,coconut_pineapple
-Female,Premium,No one,False,
-Male,Premium,Jeffrey,True,orange
-Female,Premium,No one,False,berry_boost
-Male,Standard,No one,True,"coconut_pineapple, lemon"
-Male,Premium,No one,False,
-Male,Premium,No one,False,lemon
-Female,Standard,Chantal,False,
-Female,Standard,No one,False,
-Male,Standard,No one,False,berry_boost
-Female,Premium,No one,False,coconut_pineapple
-Female,Premium,Chantal,True,"berry_boost, black_currant"
-Male,Standard,Jeffrey,True,
-Female,Premium,No one,False,
-Male,Standard,Jeffrey,False,
-Male,Standard,Mike,True,"lemon, passion_fruit"
-Male,Standard,No one,False,
-Male,Premium,Hanna,False,orange
-Female,Standard,No one,False,passion_fruit
-Female,Standard,No one,False,passion_fruit
-Female,Premium,Chantal,False,
-Male,Standard,No one,False,black_currant
-Male,Standard,No one,False,
-Male,Standard,No one,False,"orange, coconut_pineapple"
-Female,Standard,No one,True,"berry_boost, orange"
-Female,Premium,No one,False,passion_fruit
-Female,Standard,No one,True,
-Female,Premium,Chantal,True,
-Female,Standard,No one,False,
-Female,Premium,No one,False,
-Male,Standard,Mike,False,passion_fruit
-Female,Premium,Chantal,True,passion_fruit
-Female,Standard,No one,True,berry_boost
-Male,Premium,No one,False,
-Female,Premium,No one,True,"coconut_pineapple, orange"
-Male,Premium,Mike,True,
-Male,Premium,Chantal,False,
-Female,Premium,No one,False,
-Male,Standard,No one,False,lemon
-Male,Premium,Jeffrey,False,
-Male,Premium,No one,True,
-Female,Standard,Chantal,False,
-Male,Premium,Jeffrey,True,orange
-Male,Premium,No one,False,
-Male,Standard,Hanna,True,
-Male,Premium,No one,False,
-Female,Premium,No one,True,
-Female,Standard,Jeffrey,True,coconut_pineapple
-Female,Premium,Hanna,False,
-Female,Premium,No one,False,passion_fruit
-Female,Standard,Hanna,True,"berry_boost, passion_fruit"
-Male,Standard,No one,False,lemon
-Female,Standard,No one,False,"berry_boost, passion_fruit"
-Male,Premium,Jeffrey,True,
-Female,Premium,Jeffrey,False,lemon
-Female,Standard,Mike,False,
-Female,Standard,No one,False,
-Male,Standard,No one,False,
-Female,Premium,Jeffrey,True,
-Male,Premium,No one,False,"passion_fruit, orange"
-Female,Standard,No one,True,
-Female,Standard,No one,True,coconut_pineapple
-Male,Standard,Hanna,True,passion_fruit
-Female,Premium,No one,True,
-Female,Standard,Hanna,True,
-Female,Premium,No one,True,"black_currant, orange"
-Female,Standard,No one,False,black_currant
-Female,Premium,Jeffrey,True,
-Female,Standard,No one,True,
-Male,Standard,No one,False,
-Female,Standard,Hanna,True,
-Female,Premium,No one,True,"black_currant, berry_boost"
-Female,Premium,No one,True,
-Male,Premium,Hanna,False,black_currant
-Male,Standard,No one,True,"lemon, black_currant"
-Female,Premium,Hanna,False,berry_boost
-Female,Standard,No one,True,passion_fruit
-Male,Premium,No one,False,
-Female,Premium,Chantal,False,berry_boost
-Female,Premium,Hanna,False,
-Male,Premium,Chantal,False,"lemon, orange"
-Female,Standard,Mike,True,"black_currant, coconut_pineapple"
-Male,Premium,No one,True,
-Male,Premium,Hanna,True,
-Male,Standard,No one,False,lemon
-Male,Premium,No one,True,orange
-Female,Premium,No one,False,
-Female,Standard,No one,True,
-Male,Standard,No one,False,
-Female,Premium,Chantal,True,
-Male,Standard,No one,False,coconut_pineapple
-Male,Premium,No one,True,
-Male,Premium,Hanna,True,
-Male,Standard,No one,True,"coconut_pineapple, lemon"
-Male,Standard,Chantal,True,
-Male,Standard,Jeffrey,True,
-Female,Standard,Mike,False,
-Female,Standard,Chantal,True,orange
-Male,Standard,Hanna,True,lemon
-Male,Standard,Hanna,False,"orange, berry_boost"
-Male,Premium,Hanna,True,"orange, black_currant"
-Male,Premium,Mike,False,orange
-Female,Standard,Mike,False,
-Male,Standard,Jeffrey,False,berry_boost
-Male,Premium,Jeffrey,False,
-Female,Standard,Mike,False,"passion_fruit, berry_boost"
-Male,Standard,No one,False,"passion_fruit, orange"
-Male,Standard,No one,True,
-Female,Standard,Jeffrey,True,
-Male,Standard,No one,True,
-Male,Standard,Hanna,False,
-Female,Premium,Mike,False,coconut_pineapple
-Female,Standard,No one,False,
-Female,Standard,No one,True,
-Female,Standard,No one,True,passion_fruit
-Female,Premium,Chantal,False,"passion_fruit, berry_boost"
-Female,Standard,No one,False,
-Male,Standard,Mike,True,
-Male,Premium,No one,True,coconut_pineapple
-Male,Premium,No one,False,"orange, berry_boost"
-Male,Standard,No one,False,berry_boost
-Male,Standard,Chantal,False,
-Male,Premium,Jeffrey,False,
-Male,Premium,Jeffrey,False,
-Female,Standard,No one,False,passion_fruit
-Male,Standard,No one,True,lemon
-Female,Premium,Hanna,False,"coconut_pineapple, black_currant"
-Female,Premium,Jeffrey,False,"passion_fruit, lemon"
-Male,Premium,No one,False,
-Female,Premium,Hanna,False,"berry_boost, coconut_pineapple"
-Male,Standard,No one,True,
-Female,Premium,Chantal,False,black_currant
-Male,Standard,Mike,False,
-Male,Standard,Chantal,True,
-Male,Standard,Chantal,True,"orange, black_currant"
-Female,Standard,Hanna,False,
-Male,Premium,No one,True,
-Female,Premium,No one,False,
-Female,Premium,Mike,True,
-Female,Premium,Hanna,True,lemon
-Female,Standard,Mike,False,"passion_fruit, berry_boost"
-Male,Standard,No one,False,
-Female,Premium,Chantal,False,
-Female,Premium,No one,True,
-Female,Premium,No one,False,orange
-Female,Premium,Chantal,False,"lemon, passion_fruit"
-Female,Standard,Mike,True,"berry_boost, orange"
-Male,Premium,Jeffrey,True,
-Female,Premium,Chantal,True,coconut_pineapple
-Male,Premium,No one,True,lemon
-Male,Premium,No one,False,passion_fruit
-Male,Standard,No one,True,"lemon, berry_boost"
-Female,Standard,No one,False,
-Female,Standard,No one,False,
-Male,Premium,No one,False,
-Male,Premium,No one,False,passion_fruit
-Male,Premium,No one,False,
-Male,Standard,No one,False,
-Male,Premium,No one,True,"orange, passion_fruit"
-Male,Standard,Jeffrey,True,
-Male,Standard,No one,False,
-Male,Premium,No one,True,
-Male,Standard,No one,True,
-Female,Standard,No one,True,
-Male,Premium,No one,True,
-Male,Standard,No one,False,
-Male,Premium,Hanna,False,"lemon, coconut_pineapple"
-Female,Standard,No one,False,
-Female,Standard,No one,True,coconut_pineapple
-Female,Standard,Chantal,False,"coconut_pineapple, black_currant"
-Female,Premium,Mike,False,
-Male,Premium,No one,True,"black_currant, coconut_pineapple"
-Female,Standard,No one,True,berry_boost
-Female,Standard,No one,True,lemon
-Female,Premium,No one,False,
-Male,Premium,Chantal,False,
-Male,Standard,Jeffrey,True,
-Female,Premium,No one,False,lemon
-Male,Standard,No one,True,
-Female,Standard,No one,False,
-Female,Standard,Jeffrey,False,"berry_boost, orange"
-Female,Premium,No one,True,"passion_fruit, orange"
-Female,Standard,Hanna,True,passion_fruit
-Male,Premium,No one,False,"orange, black_currant"
-Male,Standard,Jeffrey,False,
-Female,Premium,Mike,False,black_currant
-Male,Premium,Hanna,True,passion_fruit
-Male,Standard,No one,True,orange
-Female,Standard,No one,True,"coconut_pineapple, berry_boost"
-Male,Standard,Chantal,True,
-Female,Premium,No one,True,orange
-Male,Standard,No one,True,
-Male,Premium,Chantal,False,
-Female,Standard,Jeffrey,False,
-Male,Premium,No one,True,passion_fruit
-Male,Premium,Hanna,False,
-Female,Premium,Hanna,False,
-Female,Standard,Jeffrey,False,"passion_fruit, coconut_pineapple"
-Female,Standard,Mike,True,
-Female,Standard,No one,False,"black_currant, lemon"
-Female,Standard,No one,False,black_currant
-Male,Standard,Mike,False,black_currant
-Male,Standard,Chantal,False,"passion_fruit, black_currant"
-Male,Premium,Jeffrey,True,
-Female,Premium,No one,False,berry_boost
-Female,Standard,No one,True,
-Male,Standard,No one,True,"coconut_pineapple, orange"
-Male,Premium,Mike,True,black_currant
-Male,Premium,Jeffrey,True,passion_fruit
-Male,Standard,No one,True,"passion_fruit, coconut_pineapple"
-Female,Standard,Hanna,False,orange
-Male,Premium,Chantal,True,
-Male,Premium,Hanna,True,
-Male,Standard,No one,True,"coconut_pineapple, orange"
-Female,Premium,Mike,False,"orange, berry_boost"
-Female,Standard,No one,False,"coconut_pineapple, lemon"
-Male,Standard,Hanna,False,
-Male,Standard,Chantal,False,
-Female,Standard,No one,True,
-Male,Premium,Mike,True,black_currant
-Female,Standard,Mike,True,
-Male,Premium,No one,True,
-Male,Standard,No one,False,"passion_fruit, orange"
-Male,Standard,No one,False,
-Male,Standard,No one,False,
-Male,Premium,Chantal,False,coconut_pineapple
-Male,Standard,Jeffrey,False,"orange, coconut_pineapple"
-Male,Premium,No one,True,"berry_boost, lemon"
-Male,Premium,Chantal,True,
-Female,Premium,Hanna,True,
-Male,Premium,No one,False,
-Male,Premium,No one,True,
-Female,Premium,No one,True,
-Male,Standard,Chantal,True,black_currant
-Male,Premium,Chantal,True,
-Female,Premium,Hanna,False,passion_fruit
-Female,Premium,Hanna,True,"orange, coconut_pineapple"
-Male,Standard,No one,True,coconut_pineapple
-Male,Premium,No one,False,
-Female,Standard,Jeffrey,False,
-Male,Premium,Chantal,True,
-Male,Premium,No one,False,"black_currant, berry_boost"
-Female,Standard,Jeffrey,True,coconut_pineapple
-Female,Premium,No one,True,orange
-Female,Premium,No one,True,
-Male,Standard,No one,False,"coconut_pineapple, orange"
-Male,Standard,No one,False,"coconut_pineapple, black_currant"
-Male,Standard,Mike,False,
-Male,Premium,Mike,False,orange
-Female,Standard,No one,False,passion_fruit
-Male,Premium,No one,True,
-Male,Standard,Mike,True,
-Male,Premium,Mike,True,
-Female,Premium,No one,False,
-Female,Standard,No one,False,
-Female,Standard,No one,False,lemon
-Female,Standard,Jeffrey,False,coconut_pineapple
-Female,Premium,No one,True,"berry_boost, orange"
-Female,Standard,Chantal,True,
-Female,Standard,No one,False,
-Male,Premium,No one,False,
-Male,Premium,No one,True,coconut_pineapple
-Female,Standard,Jeffrey,False,
-Male,Standard,No one,False,lemon
-Male,Premium,Chantal,True,
-Male,Standard,Mike,False,passion_fruit
-Female,Standard,No one,False,berry_boost
-Female,Premium,Mike,True,"coconut_pineapple, orange"
-Male,Premium,No one,False,"berry_boost, coconut_pineapple"
-Male,Standard,No one,False,orange
-Female,Premium,Chantal,False,
-Male,Premium,Chantal,False,"coconut_pineapple, berry_boost"
-Male,Standard,Jeffrey,False,"orange, coconut_pineapple"
-Female,Standard,No one,True,lemon
-Male,Premium,Chantal,False,"coconut_pineapple, orange"
-Female,Premium,Mike,True,
-Female,Standard,Chantal,False,
-Male,Standard,Chantal,False,passion_fruit
-Male,Premium,No one,False,
-Female,Premium,No one,False,black_currant
-Male,Premium,No one,True,coconut_pineapple
-Female,Premium,Hanna,True,"lemon, orange"
-Male,Premium,No one,True,
-Female,Standard,Mike,False,"orange, passion_fruit"
-Female,Premium,No one,True,
-Male,Premium,Hanna,True,"lemon, orange"
-Female,Premium,Hanna,True,orange
-Male,Standard,Mike,False,
-Female,Standard,Hanna,True,
-Female,Standard,No one,True,
-Female,Premium,No one,False,"orange, coconut_pineapple"
-Female,Standard,No one,True,
-Male,Standard,No one,False,coconut_pineapple
-Female,Premium,Jeffrey,False,"coconut_pineapple, black_currant"
-Male,Standard,Jeffrey,False,"berry_boost, black_currant"
-Female,Standard,No one,False,"berry_boost, orange"
-Female,Premium,Chantal,True,
-Male,Standard,No one,False,
-Female,Standard,No one,False,"black_currant, coconut_pineapple"
-Male,Standard,Mike,True,
-Female,Standard,Jeffrey,True,"berry_boost, black_currant"
-Male,Standard,Chantal,True,orange
-Male,Standard,Chantal,True,black_currant
-Female,Standard,No one,True,
-Female,Premium,No one,False,lemon
-Female,Standard,No one,False,
-Female,Premium,Hanna,True,
-Female,Standard,No one,True,passion_fruit
-Male,Premium,Mike,False,
-Female,Premium,Jeffrey,True,lemon
-Female,Premium,No one,False,
-Female,Premium,No one,False,
-Female,Premium,Hanna,False,orange
-Female,Premium,No one,False,berry_boost
-Male,Premium,Chantal,False,"orange, berry_boost"
-Male,Premium,Jeffrey,False,
-Male,Premium,Hanna,True,
-Male,Standard,No one,False,"berry_boost, orange"
-Female,Standard,Chantal,True,berry_boost
-Female,Premium,No one,False,
-Male,Standard,Mike,False,orange
-Female,Standard,Jeffrey,False,coconut_pineapple
-Male,Standard,No one,True,
-Female,Standard,No one,False,
-Female,Standard,No one,True,
-Female,Premium,No one,False,
-Male,Premium,Chantal,True,"orange, black_currant"
-Female,Standard,No one,True,
-Female,Standard,No one,True,passion_fruit
-Male,Premium,Mike,False,
-Female,Standard,No one,True,lemon
-Male,Standard,No one,False,
-Female,Premium,Hanna,False,
-Male,Premium,Hanna,True,
-Male,Premium,Mike,False,"berry_boost, passion_fruit"
-Male,Standard,Mike,True,berry_boost
-Female,Premium,No one,True,
-Female,Standard,Hanna,True,
-Male,Standard,Hanna,False,passion_fruit
-Female,Premium,Hanna,False,
-Female,Standard,Chantal,False,black_currant
-Male,Premium,Chantal,True,"coconut_pineapple, lemon"
-Male,Standard,Mike,False,
-Female,Standard,Hanna,True,
-Female,Standard,Hanna,False,
-Female,Standard,No one,False,"orange, black_currant"
-Female,Standard,Chantal,True,
-Female,Premium,Mike,False,"black_currant, coconut_pineapple"
-Male,Premium,Mike,True,"passion_fruit, orange"
-Male,Standard,Hanna,True,
-Male,Standard,Hanna,True,
-Male,Standard,Mike,True,
-Male,Standard,No one,True,lemon
-Female,Premium,Jeffrey,False,
-Male,Standard,Mike,True,black_currant
-Female,Standard,No one,True,"berry_boost, coconut_pineapple"
-Female,Standard,Hanna,True,
-Male,Premium,No one,False,
-Female,Premium,No one,False,"berry_boost, lemon"
-Male,Premium,No one,True,berry_boost
-Female,Standard,Mike,False,
-Female,Premium,No one,True,"passion_fruit, berry_boost"
-Female,Premium,Jeffrey,False,
-Male,Premium,No one,True,
-Female,Premium,No one,False,"orange, black_currant"
-Female,Premium,No one,False,black_currant
-Male,Standard,Mike,False,"passion_fruit, coconut_pineapple"
-Male,Premium,No one,True,"berry_boost, orange"
-Male,Premium,Hanna,True,
-Male,Standard,Hanna,True,
-Female,Premium,Chantal,True,
-Female,Standard,Mike,False,
-Female,Standard,Mike,False,"orange, passion_fruit"
-Female,Standard,Mike,True,"orange, berry_boost"
-Male,Standard,No one,False,
-Female,Premium,No one,True,"berry_boost, coconut_pineapple"
-Male,Standard,No one,True,
-Male,Standard,No one,False,"berry_boost, lemon"
-Female,Premium,Jeffrey,False,"passion_fruit, orange"
-Male,Premium,No one,False,
-Female,Standard,No one,True,passion_fruit
-Male,Standard,Hanna,False,
-Female,Premium,No one,False,
-Female,Premium,Chantal,False,orange
-Female,Premium,Chantal,True,"orange, coconut_pineapple"
-Male,Standard,Jeffrey,True,
-Female,Standard,Hanna,True,
-Female,Premium,No one,True,
-Male,Standard,No one,False,orange
-Female,Standard,No one,False,
-Female,Standard,No one,False,
-Male,Premium,No one,True,"orange, berry_boost"
-Female,Premium,Mike,True,passion_fruit
-Male,Premium,No one,False,
-Male,Premium,Hanna,False,passion_fruit
-Male,Premium,No one,True,
-Male,Standard,Mike,True,
-Male,Premium,Jeffrey,True,"berry_boost, orange"
-Female,Standard,No one,False,
-Male,Premium,Hanna,False,
-Female,Premium,Hanna,True,"coconut_pineapple, passion_fruit"
-Female,Premium,No one,True,
-Female,Premium,No one,True,"orange, black_currant"
-Male,Standard,No one,True,
-Female,Standard,Mike,True,
-Female,Premium,No one,False,coconut_pineapple
-Female,Standard,No one,True,
-Female,Premium,Jeffrey,False,
-Female,Premium,Chantal,True,
-Female,Premium,No one,False,
-Male,Standard,Mike,False,
-Male,Standard,No one,False,"berry_boost, black_currant"
-Female,Standard,No one,True,
-Male,Premium,Chantal,True,"lemon, coconut_pineapple"
-Male,Premium,No one,True,"berry_boost, black_currant"
-Female,Standard,No one,True,
-Female,Standard,No one,False,lemon
-Male,Standard,No one,False,"black_currant, passion_fruit"
-Male,Premium,No one,True,lemon
-Female,Standard,No one,True,"passion_fruit, coconut_pineapple"
-Male,Standard,No one,False,
-Male,Standard,No one,True,coconut_pineapple
-Female,Standard,No one,False,black_currant
-Male,Premium,No one,False,"passion_fruit, black_currant"
-Female,Standard,No one,False,passion_fruit
-Female,Premium,No one,False,
-Female,Standard,Chantal,False,"berry_boost, orange"
-Female,Standard,Jeffrey,False,
-Male,Premium,Jeffrey,True,"coconut_pineapple, berry_boost"
-Female,Premium,No one,False,"lemon, berry_boost"
-Male,Standard,Chantal,False,
-Male,Standard,Hanna,False,"berry_boost, coconut_pineapple"
-Female,Premium,No one,False,berry_boost
-Male,Premium,No one,True,
-Female,Premium,No one,False,lemon
-Female,Standard,No one,False,
-Male,Premium,No one,False,"coconut_pineapple, lemon"
-Female,Premium,Mike,False,"black_currant, coconut_pineapple"
-Female,Premium,No one,True,
-Female,Standard,No one,False,
-Male,Premium,No one,True,orange
-Male,Premium,No one,True,orange
-Male,Standard,Mike,True,black_currant
-Female,Premium,Jeffrey,True,berry_boost
-Female,Premium,No one,False,coconut_pineapple
-Male,Premium,Hanna,True,
-Male,Standard,Mike,False,
-Male,Standard,Mike,False,coconut_pineapple
-Female,Standard,Chantal,False,
-Female,Standard,Jeffrey,True,
-Male,Premium,Hanna,True,
-Female,Standard,Mike,True,
-Female,Premium,No one,False,
-Male,Standard,Hanna,False,
-Female,Standard,Chantal,False,
-Female,Premium,No one,False,
-Male,Standard,Chantal,True,
-Female,Standard,No one,False,"berry_boost, orange"
-Male,Premium,Mike,True,
-Male,Standard,Mike,True,lemon
-Female,Premium,No one,True,"lemon, coconut_pineapple"
-Female,Premium,Mike,True,
-Female,Standard,No one,True,lemon
-Female,Premium,Hanna,False,black_currant
-Female,Standard,Chantal,True,
-Female,Premium,No one,False,lemon
-Female,Standard,Jeffrey,True,"berry_boost, black_currant"
-Male,Premium,No one,True,
-Male,Standard,Mike,True,
-Male,Standard,No one,False,
-Male,Premium,Hanna,True,
-Female,Standard,Jeffrey,False,
-Female,Standard,Mike,False,
-Male,Standard,Mike,False,
-Male,Premium,Mike,True,
-Female,Premium,No one,True,berry_boost
-Male,Premium,Hanna,True,coconut_pineapple
-Male,Standard,No one,True,
-Female,Premium,Mike,True,
-Male,Standard,Hanna,True,"berry_boost, coconut_pineapple"
-Female,Premium,No one,False,orange
-Male,Standard,Mike,True,"orange, berry_boost"
-Male,Standard,No one,False,coconut_pineapple
-Male,Premium,No one,True,lemon
-Male,Standard,No one,True,
-Female,Standard,No one,False,
-Female,Standard,Mike,False,
-Male,Premium,Mike,False,berry_boost
-Male,Standard,Mike,True,black_currant
-Female,Premium,No one,False,coconut_pineapple
-Male,Standard,Hanna,True,"lemon, black_currant"
-Female,Premium,Chantal,True,orange
-Male,Premium,No one,True,"black_currant, lemon"
-Female,Standard,Chantal,False,
-Male,Premium,No one,False,
-Female,Standard,Chantal,False,
-Male,Premium,Chantal,False,
-Female,Standard,Chantal,False,lemon
-Male,Standard,Hanna,False,"coconut_pineapple, passion_fruit"
-Female,Standard,No one,True,"berry_boost, black_currant"
-Female,Standard,No one,False,
-Female,Standard,No one,True,"orange, lemon"
-Male,Standard,Jeffrey,True,"coconut_pineapple, black_currant"
-Male,Standard,Jeffrey,False,berry_boost
-Female,Premium,No one,False,"passion_fruit, coconut_pineapple"
+gender,abonoment_type,name_personal_trainer,uses_sauna,fav_drink,berry_boost,black_currant,coconut_pineapple,lemon,orange,passion_fruit
+Female,Premium,No one,True,,0,0,0,0,0,0
+Female,Standard,Chantal,False,,0,0,0,0,0,0
+Male,Premium,Mike,False,"berry_boost, lemon",1,0,0,1,0,0
+Male,Premium,Mike,True,passion_fruit,0,0,0,0,0,1
+Male,Standard,Mike,False,,0,0,0,0,0,0
+Female,Standard,No one,True,,0,0,0,0,0,0
+Male,Premium,No one,False,,0,0,0,0,0,0
+Male,Standard,No one,True,coconut_pineapple,0,0,1,0,0,0
+Male,Premium,Mike,False,"orange, lemon",0,0,0,1,1,0
+Female,Premium,Jeffrey,True,,0,0,0,0,0,0
+Male,Standard,Hanna,False,,0,0,0,0,0,0
+Male,Premium,Mike,True,passion_fruit,0,0,0,0,0,1
+Female,Standard,No one,True,passion_fruit,0,0,0,0,0,1
+Female,Premium,No one,False,black_currant,0,1,0,0,0,0
+Female,Premium,Mike,False,"orange, black_currant",0,1,0,0,1,0
+Female,Standard,No one,False,,0,0,0,0,0,0
+Male,Premium,Jeffrey,True,,0,0,0,0,0,0
+Female,Standard,Mike,True,,0,0,0,0,0,0
+Female,Standard,Hanna,True,orange,0,0,0,0,1,0
+Male,Premium,No one,False,,0,0,0,0,0,0
+Female,Premium,Hanna,False,,0,0,0,0,0,0
+Male,Premium,No one,True,lemon,0,0,0,1,0,0
+Female,Standard,Mike,False,"passion_fruit, orange",0,0,0,0,1,1
+Male,Premium,Jeffrey,True,"lemon, coconut_pineapple",0,0,1,1,0,0
+Female,Premium,No one,False,,0,0,0,0,0,0
+Male,Standard,Chantal,False,coconut_pineapple,0,0,1,0,0,0
+Male,Premium,No one,False,"berry_boost, passion_fruit",1,0,0,0,0,1
+Male,Standard,Chantal,False,berry_boost,1,0,0,0,0,0
+Female,Premium,No one,True,orange,0,0,0,0,1,0
+Female,Premium,No one,True,"orange, coconut_pineapple",0,0,1,0,1,0
+Male,Premium,Jeffrey,True,,0,0,0,0,0,0
+Male,Standard,No one,False,"black_currant, lemon",0,1,0,1,0,0
+Female,Premium,Chantal,True,,0,0,0,0,0,0
+Female,Premium,Hanna,True,,0,0,0,0,0,0
+Male,Premium,Mike,True,,0,0,0,0,0,0
+Male,Standard,No one,True,orange,0,0,0,0,1,0
+Female,Standard,No one,False,,0,0,0,0,0,0
+Female,Premium,No one,False,,0,0,0,0,0,0
+Male,Premium,No one,False,"coconut_pineapple, berry_boost",1,0,1,0,0,0
+Female,Premium,No one,True,"passion_fruit, black_currant",0,1,0,0,0,1
+Female,Premium,Hanna,True,coconut_pineapple,0,0,1,0,0,0
+Female,Standard,No one,False,,0,0,0,0,0,0
+Female,Premium,Chantal,False,"black_currant, lemon",0,1,0,1,0,0
+Female,Standard,Hanna,True,"coconut_pineapple, passion_fruit",0,0,1,0,0,1
+Male,Premium,Hanna,True,,0,0,0,0,0,0
+Female,Standard,Hanna,False,,0,0,0,0,0,0
+Male,Standard,No one,False,,0,0,0,0,0,0
+Male,Premium,Jeffrey,True,,0,0,0,0,0,0
+Female,Premium,Chantal,True,,0,0,0,0,0,0
+Female,Premium,No one,True,"black_currant, passion_fruit",0,1,0,0,0,1
+Male,Standard,No one,True,"coconut_pineapple, passion_fruit",0,0,1,0,0,1
+Male,Premium,No one,True,,0,0,0,0,0,0
+Female,Premium,No one,False,,0,0,0,0,0,0
+Female,Standard,Mike,False,"orange, berry_boost",1,0,0,0,1,0
+Male,Standard,Chantal,True,black_currant,0,1,0,0,0,0
+Male,Standard,No one,True,,0,0,0,0,0,0
+Female,Standard,No one,False,,0,0,0,0,0,0
+Male,Premium,Chantal,True,,0,0,0,0,0,0
+Male,Premium,No one,True,,0,0,0,0,0,0
+Female,Standard,Chantal,True,orange,0,0,0,0,1,0
+Female,Premium,Chantal,False,,0,0,0,0,0,0
+Female,Standard,Chantal,True,,0,0,0,0,0,0
+Male,Standard,No one,True,"passion_fruit, coconut_pineapple",0,0,1,0,0,1
+Female,Premium,Hanna,True,"lemon, berry_boost",1,0,0,1,0,0
+Female,Standard,No one,True,,0,0,0,0,0,0
+Female,Premium,No one,True,,0,0,0,0,0,0
+Female,Premium,No one,False,,0,0,0,0,0,0
+Male,Standard,Mike,True,"berry_boost, coconut_pineapple",1,0,1,0,0,0
+Male,Premium,No one,False,passion_fruit,0,0,0,0,0,1
+Female,Premium,No one,True,,0,0,0,0,0,0
+Male,Premium,Hanna,True,,0,0,0,0,0,0
+Male,Premium,Mike,True,black_currant,0,1,0,0,0,0
+Male,Premium,Chantal,False,berry_boost,1,0,0,0,0,0
+Male,Standard,No one,True,passion_fruit,0,0,0,0,0,1
+Female,Standard,No one,False,,0,0,0,0,0,0
+Male,Premium,Mike,True,,0,0,0,0,0,0
+Female,Premium,Hanna,False,,0,0,0,0,0,0
+Male,Premium,Mike,False,berry_boost,1,0,0,0,0,0
+Female,Standard,No one,False,,0,0,0,0,0,0
+Female,Standard,Jeffrey,True,,0,0,0,0,0,0
+Male,Standard,Mike,True,berry_boost,1,0,0,0,0,0
+Male,Standard,No one,False,,0,0,0,0,0,0
+Male,Premium,No one,False,coconut_pineapple,0,0,1,0,0,0
+Male,Standard,No one,False,"black_currant, lemon",0,1,0,1,0,0
+Female,Premium,No one,False,,0,0,0,0,0,0
+Female,Standard,Chantal,False,,0,0,0,0,0,0
+Male,Premium,Chantal,True,,0,0,0,0,0,0
+Female,Premium,No one,True,"passion_fruit, black_currant",0,1,0,0,0,1
+Female,Standard,No one,True,,0,0,0,0,0,0
+Female,Standard,No one,True,"lemon, berry_boost",1,0,0,1,0,0
+Female,Premium,No one,False,berry_boost,1,0,0,0,0,0
+Male,Standard,Chantal,False,,0,0,0,0,0,0
+Female,Standard,No one,True,,0,0,0,0,0,0
+Female,Standard,Chantal,True,coconut_pineapple,0,0,1,0,0,0
+Female,Standard,No one,True,berry_boost,1,0,0,0,0,0
+Male,Standard,No one,True,,0,0,0,0,0,0
+Male,Premium,No one,False,,0,0,0,0,0,0
+Male,Premium,Jeffrey,False,coconut_pineapple,0,0,1,0,0,0
+Female,Premium,Hanna,True,,0,0,0,0,0,0
+Female,Premium,No one,True,,0,0,0,0,0,0
+Male,Standard,Jeffrey,True,black_currant,0,1,0,0,0,0
+Female,Standard,Mike,False,,0,0,0,0,0,0
+Male,Standard,Chantal,False,lemon,0,0,0,1,0,0
+Female,Premium,Mike,True,coconut_pineapple,0,0,1,0,0,0
+Female,Premium,Mike,True,"passion_fruit, berry_boost",1,0,0,0,0,1
+Male,Premium,No one,False,"orange, black_currant",0,1,0,0,1,0
+Female,Standard,No one,False,coconut_pineapple,0,0,1,0,0,0
+Female,Standard,Chantal,False,,0,0,0,0,0,0
+Female,Premium,No one,False,,0,0,0,0,0,0
+Female,Premium,No one,True,,0,0,0,0,0,0
+Female,Standard,No one,False,,0,0,0,0,0,0
+Male,Standard,No one,False,,0,0,0,0,0,0
+Female,Premium,Chantal,False,,0,0,0,0,0,0
+Female,Premium,Jeffrey,True,,0,0,0,0,0,0
+Female,Premium,Jeffrey,False,,0,0,0,0,0,0
+Male,Premium,No one,True,orange,0,0,0,0,1,0
+Male,Standard,No one,False,"berry_boost, lemon",1,0,0,1,0,0
+Male,Standard,No one,False,,0,0,0,0,0,0
+Male,Premium,Jeffrey,False,,0,0,0,0,0,0
+Female,Standard,Chantal,True,passion_fruit,0,0,0,0,0,1
+Female,Premium,No one,False,"lemon, black_currant",0,1,0,1,0,0
+Female,Premium,No one,True,,0,0,0,0,0,0
+Female,Standard,No one,False,,0,0,0,0,0,0
+Female,Premium,Hanna,False,,0,0,0,0,0,0
+Male,Standard,Jeffrey,False,,0,0,0,0,0,0
+Male,Standard,Chantal,True,,0,0,0,0,0,0
+Female,Standard,Hanna,True,,0,0,0,0,0,0
+Female,Premium,No one,False,"passion_fruit, orange",0,0,0,0,1,1
+Male,Premium,Hanna,True,,0,0,0,0,0,0
+Male,Premium,Chantal,False,,0,0,0,0,0,0
+Male,Standard,Hanna,False,"lemon, passion_fruit",0,0,0,1,0,1
+Male,Premium,Hanna,True,orange,0,0,0,0,1,0
+Male,Premium,No one,True,orange,0,0,0,0,1,0
+Female,Premium,Mike,True,,0,0,0,0,0,0
+Female,Standard,Mike,False,passion_fruit,0,0,0,0,0,1
+Female,Standard,No one,False,coconut_pineapple,0,0,1,0,0,0
+Female,Premium,No one,True,,0,0,0,0,0,0
+Male,Standard,No one,True,lemon,0,0,0,1,0,0
+Female,Standard,No one,False,,0,0,0,0,0,0
+Female,Standard,No one,True,"lemon, orange",0,0,0,1,1,0
+Male,Premium,Mike,False,,0,0,0,0,0,0
+Female,Standard,No one,True,,0,0,0,0,0,0
+Female,Premium,Chantal,False,,0,0,0,0,0,0
+Male,Premium,Jeffrey,True,passion_fruit,0,0,0,0,0,1
+Female,Premium,No one,True,"lemon, passion_fruit",0,0,0,1,0,1
+Female,Standard,Mike,True,"black_currant, passion_fruit",0,1,0,0,0,1
+Male,Standard,No one,False,,0,0,0,0,0,0
+Male,Premium,Mike,False,"orange, berry_boost",1,0,0,0,1,0
+Male,Standard,No one,False,,0,0,0,0,0,0
+Male,Premium,Mike,True,,0,0,0,0,0,0
+Male,Premium,No one,True,,0,0,0,0,0,0
+Male,Premium,Hanna,True,,0,0,0,0,0,0
+Male,Premium,Chantal,True,"passion_fruit, orange",0,0,0,0,1,1
+Male,Standard,Mike,False,"lemon, black_currant",0,1,0,1,0,0
+Male,Standard,Hanna,False,orange,0,0,0,0,1,0
+Female,Premium,Chantal,True,passion_fruit,0,0,0,0,0,1
+Female,Standard,Jeffrey,False,passion_fruit,0,0,0,0,0,1
+Male,Standard,Mike,True,orange,0,0,0,0,1,0
+Female,Standard,Hanna,False,,0,0,0,0,0,0
+Female,Premium,Hanna,True,,0,0,0,0,0,0
+Female,Standard,Chantal,False,"berry_boost, lemon",1,0,0,1,0,0
+Male,Standard,No one,True,lemon,0,0,0,1,0,0
+Male,Premium,Jeffrey,True,berry_boost,1,0,0,0,0,0
+Male,Standard,No one,False,,0,0,0,0,0,0
+Male,Standard,Chantal,True,,0,0,0,0,0,0
+Male,Premium,Chantal,True,,0,0,0,0,0,0
+Female,Premium,No one,True,,0,0,0,0,0,0
+Male,Standard,No one,True,,0,0,0,0,0,0
+Female,Premium,No one,False,,0,0,0,0,0,0
+Male,Standard,Mike,False,"passion_fruit, lemon",0,0,0,1,0,1
+Female,Standard,Hanna,False,lemon,0,0,0,1,0,0
+Female,Standard,No one,False,,0,0,0,0,0,0
+Male,Standard,No one,True,black_currant,0,1,0,0,0,0
+Male,Premium,No one,True,,0,0,0,0,0,0
+Male,Standard,No one,False,,0,0,0,0,0,0
+Male,Standard,No one,False,,0,0,0,0,0,0
+Female,Premium,Chantal,False,"berry_boost, coconut_pineapple",1,0,1,0,0,0
+Male,Premium,Chantal,False,,0,0,0,0,0,0
+Female,Standard,No one,False,,0,0,0,0,0,0
+Male,Premium,Jeffrey,True,passion_fruit,0,0,0,0,0,1
+Male,Premium,No one,True,"lemon, black_currant",0,1,0,1,0,0
+Female,Standard,Chantal,True,,0,0,0,0,0,0
+Male,Premium,No one,True,,0,0,0,0,0,0
+Male,Standard,Hanna,False,,0,0,0,0,0,0
+Male,Standard,No one,False,berry_boost,1,0,0,0,0,0
+Female,Standard,Mike,True,passion_fruit,0,0,0,0,0,1
+Male,Standard,Mike,False,"lemon, orange",0,0,0,1,1,0
+Female,Premium,No one,False,"lemon, coconut_pineapple",0,0,1,1,0,0
+Male,Premium,No one,True,,0,0,0,0,0,0
+Male,Standard,No one,False,,0,0,0,0,0,0
+Male,Premium,No one,False,,0,0,0,0,0,0
+Female,Standard,No one,True,,0,0,0,0,0,0
+Female,Premium,No one,True,,0,0,0,0,0,0
+Female,Premium,No one,False,"passion_fruit, berry_boost",1,0,0,0,0,1
+Male,Premium,No one,True,"black_currant, coconut_pineapple",0,1,1,0,0,0
+Male,Premium,Jeffrey,False,lemon,0,0,0,1,0,0
+Male,Standard,Mike,False,"coconut_pineapple, black_currant",0,1,1,0,0,0
+Male,Premium,Jeffrey,True,coconut_pineapple,0,0,1,0,0,0
+Female,Premium,Jeffrey,True,coconut_pineapple,0,0,1,0,0,0
+Male,Standard,Jeffrey,True,"orange, passion_fruit",0,0,0,0,1,1
+Male,Standard,Mike,False,"black_currant, coconut_pineapple",0,1,1,0,0,0
+Male,Premium,No one,False,black_currant,0,1,0,0,0,0
+Female,Premium,Chantal,True,"passion_fruit, coconut_pineapple",0,0,1,0,0,1
+Male,Premium,Jeffrey,False,orange,0,0,0,0,1,0
+Male,Premium,Chantal,False,lemon,0,0,0,1,0,0
+Male,Standard,No one,False,"berry_boost, black_currant",1,1,0,0,0,0
+Male,Standard,Chantal,False,,0,0,0,0,0,0
+Male,Premium,Jeffrey,True,"lemon, coconut_pineapple",0,0,1,1,0,0
+Male,Premium,Hanna,False,coconut_pineapple,0,0,1,0,0,0
+Male,Premium,Chantal,False,lemon,0,0,0,1,0,0
+Female,Standard,Chantal,True,,0,0,0,0,0,0
+Male,Premium,No one,True,,0,0,0,0,0,0
+Male,Premium,No one,False,,0,0,0,0,0,0
+Female,Standard,Chantal,False,,0,0,0,0,0,0
+Female,Standard,No one,True,,0,0,0,0,0,0
+Male,Premium,Mike,False,lemon,0,0,0,1,0,0
+Male,Standard,Jeffrey,True,coconut_pineapple,0,0,1,0,0,0
+Female,Premium,No one,False,"coconut_pineapple, passion_fruit",0,0,1,0,0,1
+Male,Standard,No one,True,,0,0,0,0,0,0
+Male,Premium,Mike,False,lemon,0,0,0,1,0,0
+Male,Premium,Chantal,True,passion_fruit,0,0,0,0,0,1
+Male,Premium,Mike,False,,0,0,0,0,0,0
+Male,Standard,No one,False,coconut_pineapple,0,0,1,0,0,0
+Female,Standard,No one,False,,0,0,0,0,0,0
+Male,Standard,No one,False,orange,0,0,0,0,1,0
+Male,Standard,No one,False,,0,0,0,0,0,0
+Female,Premium,Jeffrey,True,,0,0,0,0,0,0
+Male,Premium,Chantal,False,"berry_boost, orange",1,0,0,0,1,0
+Male,Premium,No one,False,,0,0,0,0,0,0
+Male,Standard,No one,False,,0,0,0,0,0,0
+Male,Premium,No one,True,,0,0,0,0,0,0
+Male,Standard,Mike,False,lemon,0,0,0,1,0,0
+Female,Standard,No one,True,,0,0,0,0,0,0
+Female,Standard,No one,True,,0,0,0,0,0,0
+Female,Standard,Hanna,False,"lemon, black_currant",0,1,0,1,0,0
+Female,Standard,No one,False,,0,0,0,0,0,0
+Female,Premium,Jeffrey,True,coconut_pineapple,0,0,1,0,0,0
+Female,Premium,No one,True,"coconut_pineapple, passion_fruit",0,0,1,0,0,1
+Male,Standard,Jeffrey,True,,0,0,0,0,0,0
+Male,Premium,No one,False,passion_fruit,0,0,0,0,0,1
+Female,Premium,Hanna,False,passion_fruit,0,0,0,0,0,1
+Male,Premium,Mike,True,,0,0,0,0,0,0
+Female,Premium,Mike,False,berry_boost,1,0,0,0,0,0
+Female,Premium,Hanna,True,lemon,0,0,0,1,0,0
+Male,Standard,Jeffrey,False,,0,0,0,0,0,0
+Female,Premium,No one,False,,0,0,0,0,0,0
+Male,Standard,No one,True,coconut_pineapple,0,0,1,0,0,0
+Female,Premium,Mike,True,,0,0,0,0,0,0
+Female,Premium,No one,False,,0,0,0,0,0,0
+Male,Standard,No one,False,,0,0,0,0,0,0
+Male,Standard,No one,False,black_currant,0,1,0,0,0,0
+Female,Premium,No one,False,berry_boost,1,0,0,0,0,0
+Male,Premium,Jeffrey,False,lemon,0,0,0,1,0,0
+Male,Standard,No one,True,,0,0,0,0,0,0
+Male,Premium,Mike,True,coconut_pineapple,0,0,1,0,0,0
+Female,Premium,Mike,False,,0,0,0,0,0,0
+Male,Standard,No one,False,"coconut_pineapple, black_currant",0,1,1,0,0,0
+Male,Standard,No one,True,"black_currant, passion_fruit",0,1,0,0,0,1
+Female,Premium,Chantal,False,lemon,0,0,0,1,0,0
+Female,Standard,No one,False,coconut_pineapple,0,0,1,0,0,0
+Male,Standard,No one,True,,0,0,0,0,0,0
+Female,Premium,Chantal,True,black_currant,0,1,0,0,0,0
+Female,Standard,Jeffrey,True,,0,0,0,0,0,0
+Male,Standard,Hanna,True,,0,0,0,0,0,0
+Female,Standard,Mike,True,black_currant,0,1,0,0,0,0
+Female,Standard,No one,True,,0,0,0,0,0,0
+Female,Standard,No one,True,coconut_pineapple,0,0,1,0,0,0
+Male,Premium,Mike,False,,0,0,0,0,0,0
+Male,Premium,No one,False,,0,0,0,0,0,0
+Male,Standard,Mike,True,,0,0,0,0,0,0
+Male,Standard,Hanna,False,,0,0,0,0,0,0
+Male,Premium,Chantal,True,,0,0,0,0,0,0
+Male,Standard,Chantal,True,,0,0,0,0,0,0
+Female,Standard,No one,False,,0,0,0,0,0,0
+Male,Standard,No one,True,,0,0,0,0,0,0
+Male,Standard,No one,True,,0,0,0,0,0,0
+Female,Standard,Hanna,False,coconut_pineapple,0,0,1,0,0,0
+Male,Premium,Mike,True,"lemon, black_currant",0,1,0,1,0,0
+Female,Standard,Hanna,False,lemon,0,0,0,1,0,0
+Male,Standard,Chantal,True,"coconut_pineapple, orange",0,0,1,0,1,0
+Male,Premium,Chantal,True,,0,0,0,0,0,0
+Male,Standard,No one,True,black_currant,0,1,0,0,0,0
+Female,Premium,Mike,False,berry_boost,1,0,0,0,0,0
+Female,Standard,No one,False,,0,0,0,0,0,0
+Male,Premium,No one,False,lemon,0,0,0,1,0,0
+Male,Premium,Mike,False,"black_currant, coconut_pineapple",0,1,1,0,0,0
+Male,Premium,No one,True,,0,0,0,0,0,0
+Male,Premium,No one,True,coconut_pineapple,0,0,1,0,0,0
+Female,Premium,Mike,True,,0,0,0,0,0,0
+Female,Standard,No one,False,,0,0,0,0,0,0
+Female,Premium,No one,True,berry_boost,1,0,0,0,0,0
+Male,Standard,No one,False,"passion_fruit, black_currant",0,1,0,0,0,1
+Female,Premium,Hanna,True,"lemon, passion_fruit",0,0,0,1,0,1
+Female,Premium,No one,False,,0,0,0,0,0,0
+Male,Standard,No one,False,"coconut_pineapple, orange",0,0,1,0,1,0
+Female,Standard,No one,True,"lemon, passion_fruit",0,0,0,1,0,1
+Male,Standard,Jeffrey,False,,0,0,0,0,0,0
+Female,Premium,Chantal,True,,0,0,0,0,0,0
+Female,Premium,Mike,False,"orange, passion_fruit",0,0,0,0,1,1
+Male,Premium,No one,False,,0,0,0,0,0,0
+Female,Premium,Chantal,False,"coconut_pineapple, orange",0,0,1,0,1,0
+Male,Standard,Jeffrey,True,,0,0,0,0,0,0
+Female,Standard,Hanna,True,,0,0,0,0,0,0
+Male,Standard,No one,False,,0,0,0,0,0,0
+Male,Standard,No one,False,,0,0,0,0,0,0
+Male,Standard,Chantal,True,lemon,0,0,0,1,0,0
+Female,Standard,Chantal,True,,0,0,0,0,0,0
+Female,Premium,No one,True,,0,0,0,0,0,0
+Male,Standard,Mike,True,,0,0,0,0,0,0
+Male,Standard,Chantal,True,,0,0,0,0,0,0
+Female,Standard,Chantal,False,"lemon, orange",0,0,0,1,1,0
+Male,Premium,No one,False,,0,0,0,0,0,0
+Male,Standard,No one,True,"passion_fruit, coconut_pineapple",0,0,1,0,0,1
+Male,Standard,No one,False,coconut_pineapple,0,0,1,0,0,0
+Male,Premium,Mike,True,,0,0,0,0,0,0
+Male,Standard,Chantal,True,"coconut_pineapple, lemon",0,0,1,1,0,0
+Male,Premium,Chantal,False,berry_boost,1,0,0,0,0,0
+Male,Premium,Chantal,True,,0,0,0,0,0,0
+Male,Premium,No one,False,"lemon, black_currant",0,1,0,1,0,0
+Female,Standard,Chantal,True,"lemon, berry_boost",1,0,0,1,0,0
+Male,Premium,No one,False,"passion_fruit, coconut_pineapple",0,0,1,0,0,1
+Male,Standard,Chantal,False,,0,0,0,0,0,0
+Male,Premium,Chantal,True,,0,0,0,0,0,0
+Female,Standard,Chantal,True,,0,0,0,0,0,0
+Male,Standard,No one,True,,0,0,0,0,0,0
+Female,Standard,No one,False,"coconut_pineapple, lemon",0,0,1,1,0,0
+Female,Standard,No one,True,passion_fruit,0,0,0,0,0,1
+Female,Standard,No one,True,,0,0,0,0,0,0
+Male,Premium,No one,True,,0,0,0,0,0,0
+Female,Standard,No one,True,passion_fruit,0,0,0,0,0,1
+Female,Premium,No one,False,passion_fruit,0,0,0,0,0,1
+Female,Premium,No one,True,passion_fruit,0,0,0,0,0,1
+Male,Premium,Hanna,True,,0,0,0,0,0,0
+Male,Standard,No one,True,,0,0,0,0,0,0
+Female,Premium,No one,True,,0,0,0,0,0,0
+Female,Standard,Chantal,False,,0,0,0,0,0,0
+Male,Premium,Chantal,False,"orange, black_currant",0,1,0,0,1,0
+Male,Premium,No one,False,"coconut_pineapple, passion_fruit",0,0,1,0,0,1
+Female,Standard,Chantal,False,"passion_fruit, orange",0,0,0,0,1,1
+Male,Premium,Jeffrey,False,,0,0,0,0,0,0
+Female,Standard,No one,True,,0,0,0,0,0,0
+Male,Standard,Jeffrey,True,coconut_pineapple,0,0,1,0,0,0
+Female,Premium,Mike,True,,0,0,0,0,0,0
+Female,Standard,No one,True,,0,0,0,0,0,0
+Male,Standard,Mike,False,,0,0,0,0,0,0
+Female,Premium,No one,False,,0,0,0,0,0,0
+Female,Standard,No one,True,,0,0,0,0,0,0
+Male,Standard,No one,False,"orange, berry_boost",1,0,0,0,1,0
+Female,Standard,Jeffrey,False,,0,0,0,0,0,0
+Female,Standard,Jeffrey,False,passion_fruit,0,0,0,0,0,1
+Male,Standard,No one,False,,0,0,0,0,0,0
+Female,Standard,No one,False,,0,0,0,0,0,0
+Female,Premium,Mike,True,berry_boost,1,0,0,0,0,0
+Female,Premium,No one,True,,0,0,0,0,0,0
+Male,Standard,No one,False,,0,0,0,0,0,0
+Male,Standard,No one,True,,0,0,0,0,0,0
+Female,Standard,No one,False,"lemon, orange",0,0,0,1,1,0
+Female,Standard,No one,False,,0,0,0,0,0,0
+Female,Standard,Hanna,False,,0,0,0,0,0,0
+Female,Standard,Jeffrey,False,,0,0,0,0,0,0
+Female,Standard,Mike,True,,0,0,0,0,0,0
+Female,Premium,No one,False,"passion_fruit, lemon",0,0,0,1,0,1
+Male,Standard,Chantal,False,"lemon, berry_boost",1,0,0,1,0,0
+Female,Standard,Chantal,True,,0,0,0,0,0,0
+Female,Premium,Hanna,True,passion_fruit,0,0,0,0,0,1
+Male,Standard,Chantal,False,coconut_pineapple,0,0,1,0,0,0
+Female,Standard,No one,False,"lemon, black_currant",0,1,0,1,0,0
+Male,Premium,Chantal,False,,0,0,0,0,0,0
+Male,Premium,Jeffrey,True,black_currant,0,1,0,0,0,0
+Female,Premium,Hanna,True,black_currant,0,1,0,0,0,0
+Male,Premium,No one,True,,0,0,0,0,0,0
+Female,Premium,Jeffrey,True,"coconut_pineapple, black_currant",0,1,1,0,0,0
+Female,Premium,No one,True,,0,0,0,0,0,0
+Female,Premium,Chantal,True,,0,0,0,0,0,0
+Male,Premium,Mike,False,,0,0,0,0,0,0
+Female,Premium,No one,False,"berry_boost, orange",1,0,0,0,1,0
+Male,Premium,Mike,False,,0,0,0,0,0,0
+Male,Premium,No one,True,lemon,0,0,0,1,0,0
+Female,Premium,No one,False,,0,0,0,0,0,0
+Male,Standard,No one,False,berry_boost,1,0,0,0,0,0
+Male,Premium,No one,False,"lemon, coconut_pineapple",0,0,1,1,0,0
+Male,Premium,Hanna,True,black_currant,0,1,0,0,0,0
+Female,Standard,Chantal,True,,0,0,0,0,0,0
+Female,Premium,No one,True,"coconut_pineapple, black_currant",0,1,1,0,0,0
+Female,Premium,Hanna,False,"orange, lemon",0,0,0,1,1,0
+Male,Premium,Hanna,True,,0,0,0,0,0,0
+Male,Premium,Jeffrey,True,black_currant,0,1,0,0,0,0
+Male,Standard,Jeffrey,False,,0,0,0,0,0,0
+Female,Premium,Chantal,True,,0,0,0,0,0,0
+Female,Standard,Hanna,False,,0,0,0,0,0,0
+Female,Standard,No one,True,"passion_fruit, berry_boost",1,0,0,0,0,1
+Female,Standard,Jeffrey,False,,0,0,0,0,0,0
+Female,Standard,No one,False,"coconut_pineapple, passion_fruit",0,0,1,0,0,1
+Female,Premium,Hanna,True,black_currant,0,1,0,0,0,0
+Female,Standard,Chantal,False,,0,0,0,0,0,0
+Female,Premium,No one,True,,0,0,0,0,0,0
+Female,Standard,No one,True,,0,0,0,0,0,0
+Female,Premium,Hanna,True,"coconut_pineapple, lemon",0,0,1,1,0,0
+Male,Premium,Mike,True,,0,0,0,0,0,0
+Male,Standard,No one,True,,0,0,0,0,0,0
+Female,Premium,Hanna,True,black_currant,0,1,0,0,0,0
+Female,Premium,No one,True,orange,0,0,0,0,1,0
+Female,Premium,Chantal,False,passion_fruit,0,0,0,0,0,1
+Female,Premium,Chantal,True,"berry_boost, black_currant",1,1,0,0,0,0
+Male,Premium,Jeffrey,False,lemon,0,0,0,1,0,0
+Female,Standard,Chantal,True,,0,0,0,0,0,0
+Female,Standard,No one,False,"lemon, black_currant",0,1,0,1,0,0
+Male,Premium,Chantal,True,coconut_pineapple,0,0,1,0,0,0
+Female,Standard,Jeffrey,True,,0,0,0,0,0,0
+Male,Premium,Mike,True,,0,0,0,0,0,0
+Female,Standard,No one,False,,0,0,0,0,0,0
+Male,Standard,Chantal,False,berry_boost,1,0,0,0,0,0
+Male,Premium,Mike,True,,0,0,0,0,0,0
+Female,Standard,No one,False,,0,0,0,0,0,0
+Female,Premium,Chantal,True,,0,0,0,0,0,0
+Male,Premium,No one,True,,0,0,0,0,0,0
+Female,Standard,No one,True,coconut_pineapple,0,0,1,0,0,0
+Female,Premium,No one,False,"berry_boost, coconut_pineapple",1,0,1,0,0,0
+Female,Premium,No one,False,,0,0,0,0,0,0
+Male,Premium,Hanna,False,"coconut_pineapple, black_currant",0,1,1,0,0,0
+Female,Standard,Chantal,True,"orange, black_currant",0,1,0,0,1,0
+Female,Standard,No one,False,,0,0,0,0,0,0
+Female,Premium,Chantal,True,,0,0,0,0,0,0
+Female,Premium,No one,True,coconut_pineapple,0,0,1,0,0,0
+Male,Premium,Chantal,False,,0,0,0,0,0,0
+Female,Premium,No one,False,,0,0,0,0,0,0
+Male,Premium,Mike,False,black_currant,0,1,0,0,0,0
+Female,Standard,No one,False,berry_boost,1,0,0,0,0,0
+Male,Standard,Jeffrey,True,"lemon, passion_fruit",0,0,0,1,0,1
+Female,Standard,Chantal,False,coconut_pineapple,0,0,1,0,0,0
+Male,Premium,No one,True,"black_currant, orange",0,1,0,0,1,0
+Male,Standard,Jeffrey,True,,0,0,0,0,0,0
+Female,Premium,No one,True,orange,0,0,0,0,1,0
+Female,Standard,No one,False,,0,0,0,0,0,0
+Female,Standard,Chantal,True,"passion_fruit, berry_boost",1,0,0,0,0,1
+Male,Standard,Mike,False,,0,0,0,0,0,0
+Male,Premium,No one,True,coconut_pineapple,0,0,1,0,0,0
+Male,Premium,Mike,False,passion_fruit,0,0,0,0,0,1
+Male,Standard,Chantal,True,"orange, lemon",0,0,0,1,1,0
+Male,Premium,No one,True,,0,0,0,0,0,0
+Female,Standard,No one,True,"lemon, berry_boost",1,0,0,1,0,0
+Female,Standard,Hanna,False,,0,0,0,0,0,0
+Female,Standard,Jeffrey,True,,0,0,0,0,0,0
+Male,Standard,Hanna,True,,0,0,0,0,0,0
+Female,Premium,No one,False,black_currant,0,1,0,0,0,0
+Female,Standard,Jeffrey,True,"orange, berry_boost",1,0,0,0,1,0
+Male,Premium,No one,True,"orange, lemon",0,0,0,1,1,0
+Female,Premium,No one,False,"passion_fruit, black_currant",0,1,0,0,0,1
+Female,Standard,No one,True,passion_fruit,0,0,0,0,0,1
+Male,Premium,No one,False,black_currant,0,1,0,0,0,0
+Female,Premium,Jeffrey,False,,0,0,0,0,0,0
+Female,Standard,Jeffrey,False,"lemon, black_currant",0,1,0,1,0,0
+Female,Standard,Jeffrey,False,orange,0,0,0,0,1,0
+Female,Premium,Chantal,True,,0,0,0,0,0,0
+Female,Standard,Mike,False,,0,0,0,0,0,0
+Male,Standard,Chantal,True,,0,0,0,0,0,0
+Female,Premium,Hanna,False,berry_boost,1,0,0,0,0,0
+Female,Standard,Jeffrey,True,"orange, black_currant",0,1,0,0,1,0
+Male,Standard,Jeffrey,False,,0,0,0,0,0,0
+Female,Premium,Jeffrey,False,,0,0,0,0,0,0
+Male,Premium,No one,True,"black_currant, orange",0,1,0,0,1,0
+Male,Premium,No one,True,lemon,0,0,0,1,0,0
+Female,Standard,No one,False,,0,0,0,0,0,0
+Female,Premium,Hanna,True,,0,0,0,0,0,0
+Female,Standard,No one,True,orange,0,0,0,0,1,0
+Female,Premium,Jeffrey,True,berry_boost,1,0,0,0,0,0
+Male,Premium,Mike,True,,0,0,0,0,0,0
+Female,Premium,Chantal,True,,0,0,0,0,0,0
+Male,Premium,Jeffrey,False,,0,0,0,0,0,0
+Male,Premium,Chantal,True,"black_currant, orange",0,1,0,0,1,0
+Female,Standard,Chantal,True,lemon,0,0,0,1,0,0
+Male,Standard,No one,True,"orange, lemon",0,0,0,1,1,0
+Male,Standard,Mike,False,,0,0,0,0,0,0
+Male,Standard,Jeffrey,False,orange,0,0,0,0,1,0
+Male,Standard,Jeffrey,True,,0,0,0,0,0,0
+Male,Standard,Mike,True,orange,0,0,0,0,1,0
+Female,Premium,No one,False,berry_boost,1,0,0,0,0,0
+Female,Standard,Mike,True,,0,0,0,0,0,0
+Male,Premium,Chantal,True,berry_boost,1,0,0,0,0,0
+Male,Premium,No one,True,,0,0,0,0,0,0
+Female,Standard,No one,False,berry_boost,1,0,0,0,0,0
+Male,Premium,No one,False,passion_fruit,0,0,0,0,0,1
+Female,Premium,Mike,True,"black_currant, coconut_pineapple",0,1,1,0,0,0
+Male,Standard,No one,False,"passion_fruit, orange",0,0,0,0,1,1
+Male,Standard,No one,False,,0,0,0,0,0,0
+Male,Standard,Mike,True,"orange, coconut_pineapple",0,0,1,0,1,0
+Female,Standard,Chantal,True,,0,0,0,0,0,0
+Male,Premium,Mike,False,,0,0,0,0,0,0
+Male,Premium,Mike,False,berry_boost,1,0,0,0,0,0
+Female,Standard,Chantal,False,,0,0,0,0,0,0
+Female,Premium,Jeffrey,False,,0,0,0,0,0,0
+Male,Standard,No one,True,,0,0,0,0,0,0
+Female,Standard,No one,False,black_currant,0,1,0,0,0,0
+Female,Standard,No one,True,"passion_fruit, orange",0,0,0,0,1,1
+Male,Standard,No one,True,"passion_fruit, lemon",0,0,0,1,0,1
+Male,Premium,Jeffrey,False,coconut_pineapple,0,0,1,0,0,0
+Female,Premium,No one,False,,0,0,0,0,0,0
+Male,Premium,Jeffrey,True,orange,0,0,0,0,1,0
+Female,Premium,No one,False,berry_boost,1,0,0,0,0,0
+Male,Standard,No one,True,"coconut_pineapple, lemon",0,0,1,1,0,0
+Male,Premium,No one,False,,0,0,0,0,0,0
+Male,Premium,No one,False,lemon,0,0,0,1,0,0
+Female,Standard,Chantal,False,,0,0,0,0,0,0
+Female,Standard,No one,False,,0,0,0,0,0,0
+Male,Standard,No one,False,berry_boost,1,0,0,0,0,0
+Female,Premium,No one,False,coconut_pineapple,0,0,1,0,0,0
+Female,Premium,Chantal,True,"berry_boost, black_currant",1,1,0,0,0,0
+Male,Standard,Jeffrey,True,,0,0,0,0,0,0
+Female,Premium,No one,False,,0,0,0,0,0,0
+Male,Standard,Jeffrey,False,,0,0,0,0,0,0
+Male,Standard,Mike,True,"lemon, passion_fruit",0,0,0,1,0,1
+Male,Standard,No one,False,,0,0,0,0,0,0
+Male,Premium,Hanna,False,orange,0,0,0,0,1,0
+Female,Standard,No one,False,passion_fruit,0,0,0,0,0,1
+Female,Standard,No one,False,passion_fruit,0,0,0,0,0,1
+Female,Premium,Chantal,False,,0,0,0,0,0,0
+Male,Standard,No one,False,black_currant,0,1,0,0,0,0
+Male,Standard,No one,False,,0,0,0,0,0,0
+Male,Standard,No one,False,"orange, coconut_pineapple",0,0,1,0,1,0
+Female,Standard,No one,True,"berry_boost, orange",1,0,0,0,1,0
+Female,Premium,No one,False,passion_fruit,0,0,0,0,0,1
+Female,Standard,No one,True,,0,0,0,0,0,0
+Female,Premium,Chantal,True,,0,0,0,0,0,0
+Female,Standard,No one,False,,0,0,0,0,0,0
+Female,Premium,No one,False,,0,0,0,0,0,0
+Male,Standard,Mike,False,passion_fruit,0,0,0,0,0,1
+Female,Premium,Chantal,True,passion_fruit,0,0,0,0,0,1
+Female,Standard,No one,True,berry_boost,1,0,0,0,0,0
+Male,Premium,No one,False,,0,0,0,0,0,0
+Female,Premium,No one,True,"coconut_pineapple, orange",0,0,1,0,1,0
+Male,Premium,Mike,True,,0,0,0,0,0,0
+Male,Premium,Chantal,False,,0,0,0,0,0,0
+Female,Premium,No one,False,,0,0,0,0,0,0
+Male,Standard,No one,False,lemon,0,0,0,1,0,0
+Male,Premium,Jeffrey,False,,0,0,0,0,0,0
+Male,Premium,No one,True,,0,0,0,0,0,0
+Female,Standard,Chantal,False,,0,0,0,0,0,0
+Male,Premium,Jeffrey,True,orange,0,0,0,0,1,0
+Male,Premium,No one,False,,0,0,0,0,0,0
+Male,Standard,Hanna,True,,0,0,0,0,0,0
+Male,Premium,No one,False,,0,0,0,0,0,0
+Female,Premium,No one,True,,0,0,0,0,0,0
+Female,Standard,Jeffrey,True,coconut_pineapple,0,0,1,0,0,0
+Female,Premium,Hanna,False,,0,0,0,0,0,0
+Female,Premium,No one,False,passion_fruit,0,0,0,0,0,1
+Female,Standard,Hanna,True,"berry_boost, passion_fruit",1,0,0,0,0,1
+Male,Standard,No one,False,lemon,0,0,0,1,0,0
+Female,Standard,No one,False,"berry_boost, passion_fruit",1,0,0,0,0,1
+Male,Premium,Jeffrey,True,,0,0,0,0,0,0
+Female,Premium,Jeffrey,False,lemon,0,0,0,1,0,0
+Female,Standard,Mike,False,,0,0,0,0,0,0
+Female,Standard,No one,False,,0,0,0,0,0,0
+Male,Standard,No one,False,,0,0,0,0,0,0
+Female,Premium,Jeffrey,True,,0,0,0,0,0,0
+Male,Premium,No one,False,"passion_fruit, orange",0,0,0,0,1,1
+Female,Standard,No one,True,,0,0,0,0,0,0
+Female,Standard,No one,True,coconut_pineapple,0,0,1,0,0,0
+Male,Standard,Hanna,True,passion_fruit,0,0,0,0,0,1
+Female,Premium,No one,True,,0,0,0,0,0,0
+Female,Standard,Hanna,True,,0,0,0,0,0,0
+Female,Premium,No one,True,"black_currant, orange",0,1,0,0,1,0
+Female,Standard,No one,False,black_currant,0,1,0,0,0,0
+Female,Premium,Jeffrey,True,,0,0,0,0,0,0
+Female,Standard,No one,True,,0,0,0,0,0,0
+Male,Standard,No one,False,,0,0,0,0,0,0
+Female,Standard,Hanna,True,,0,0,0,0,0,0
+Female,Premium,No one,True,"black_currant, berry_boost",1,1,0,0,0,0
+Female,Premium,No one,True,,0,0,0,0,0,0
+Male,Premium,Hanna,False,black_currant,0,1,0,0,0,0
+Male,Standard,No one,True,"lemon, black_currant",0,1,0,1,0,0
+Female,Premium,Hanna,False,berry_boost,1,0,0,0,0,0
+Female,Standard,No one,True,passion_fruit,0,0,0,0,0,1
+Male,Premium,No one,False,,0,0,0,0,0,0
+Female,Premium,Chantal,False,berry_boost,1,0,0,0,0,0
+Female,Premium,Hanna,False,,0,0,0,0,0,0
+Male,Premium,Chantal,False,"lemon, orange",0,0,0,1,1,0
+Female,Standard,Mike,True,"black_currant, coconut_pineapple",0,1,1,0,0,0
+Male,Premium,No one,True,,0,0,0,0,0,0
+Male,Premium,Hanna,True,,0,0,0,0,0,0
+Male,Standard,No one,False,lemon,0,0,0,1,0,0
+Male,Premium,No one,True,orange,0,0,0,0,1,0
+Female,Premium,No one,False,,0,0,0,0,0,0
+Female,Standard,No one,True,,0,0,0,0,0,0
+Male,Standard,No one,False,,0,0,0,0,0,0
+Female,Premium,Chantal,True,,0,0,0,0,0,0
+Male,Standard,No one,False,coconut_pineapple,0,0,1,0,0,0
+Male,Premium,No one,True,,0,0,0,0,0,0
+Male,Premium,Hanna,True,,0,0,0,0,0,0
+Male,Standard,No one,True,"coconut_pineapple, lemon",0,0,1,1,0,0
+Male,Standard,Chantal,True,,0,0,0,0,0,0
+Male,Standard,Jeffrey,True,,0,0,0,0,0,0
+Female,Standard,Mike,False,,0,0,0,0,0,0
+Female,Standard,Chantal,True,orange,0,0,0,0,1,0
+Male,Standard,Hanna,True,lemon,0,0,0,1,0,0
+Male,Standard,Hanna,False,"orange, berry_boost",1,0,0,0,1,0
+Male,Premium,Hanna,True,"orange, black_currant",0,1,0,0,1,0
+Male,Premium,Mike,False,orange,0,0,0,0,1,0
+Female,Standard,Mike,False,,0,0,0,0,0,0
+Male,Standard,Jeffrey,False,berry_boost,1,0,0,0,0,0
+Male,Premium,Jeffrey,False,,0,0,0,0,0,0
+Female,Standard,Mike,False,"passion_fruit, berry_boost",1,0,0,0,0,1
+Male,Standard,No one,False,"passion_fruit, orange",0,0,0,0,1,1
+Male,Standard,No one,True,,0,0,0,0,0,0
+Female,Standard,Jeffrey,True,,0,0,0,0,0,0
+Male,Standard,No one,True,,0,0,0,0,0,0
+Male,Standard,Hanna,False,,0,0,0,0,0,0
+Female,Premium,Mike,False,coconut_pineapple,0,0,1,0,0,0
+Female,Standard,No one,False,,0,0,0,0,0,0
+Female,Standard,No one,True,,0,0,0,0,0,0
+Female,Standard,No one,True,passion_fruit,0,0,0,0,0,1
+Female,Premium,Chantal,False,"passion_fruit, berry_boost",1,0,0,0,0,1
+Female,Standard,No one,False,,0,0,0,0,0,0
+Male,Standard,Mike,True,,0,0,0,0,0,0
+Male,Premium,No one,True,coconut_pineapple,0,0,1,0,0,0
+Male,Premium,No one,False,"orange, berry_boost",1,0,0,0,1,0
+Male,Standard,No one,False,berry_boost,1,0,0,0,0,0
+Male,Standard,Chantal,False,,0,0,0,0,0,0
+Male,Premium,Jeffrey,False,,0,0,0,0,0,0
+Male,Premium,Jeffrey,False,,0,0,0,0,0,0
+Female,Standard,No one,False,passion_fruit,0,0,0,0,0,1
+Male,Standard,No one,True,lemon,0,0,0,1,0,0
+Female,Premium,Hanna,False,"coconut_pineapple, black_currant",0,1,1,0,0,0
+Female,Premium,Jeffrey,False,"passion_fruit, lemon",0,0,0,1,0,1
+Male,Premium,No one,False,,0,0,0,0,0,0
+Female,Premium,Hanna,False,"berry_boost, coconut_pineapple",1,0,1,0,0,0
+Male,Standard,No one,True,,0,0,0,0,0,0
+Female,Premium,Chantal,False,black_currant,0,1,0,0,0,0
+Male,Standard,Mike,False,,0,0,0,0,0,0
+Male,Standard,Chantal,True,,0,0,0,0,0,0
+Male,Standard,Chantal,True,"orange, black_currant",0,1,0,0,1,0
+Female,Standard,Hanna,False,,0,0,0,0,0,0
+Male,Premium,No one,True,,0,0,0,0,0,0
+Female,Premium,No one,False,,0,0,0,0,0,0
+Female,Premium,Mike,True,,0,0,0,0,0,0
+Female,Premium,Hanna,True,lemon,0,0,0,1,0,0
+Female,Standard,Mike,False,"passion_fruit, berry_boost",1,0,0,0,0,1
+Male,Standard,No one,False,,0,0,0,0,0,0
+Female,Premium,Chantal,False,,0,0,0,0,0,0
+Female,Premium,No one,True,,0,0,0,0,0,0
+Female,Premium,No one,False,orange,0,0,0,0,1,0
+Female,Premium,Chantal,False,"lemon, passion_fruit",0,0,0,1,0,1
+Female,Standard,Mike,True,"berry_boost, orange",1,0,0,0,1,0
+Male,Premium,Jeffrey,True,,0,0,0,0,0,0
+Female,Premium,Chantal,True,coconut_pineapple,0,0,1,0,0,0
+Male,Premium,No one,True,lemon,0,0,0,1,0,0
+Male,Premium,No one,False,passion_fruit,0,0,0,0,0,1
+Male,Standard,No one,True,"lemon, berry_boost",1,0,0,1,0,0
+Female,Standard,No one,False,,0,0,0,0,0,0
+Female,Standard,No one,False,,0,0,0,0,0,0
+Male,Premium,No one,False,,0,0,0,0,0,0
+Male,Premium,No one,False,passion_fruit,0,0,0,0,0,1
+Male,Premium,No one,False,,0,0,0,0,0,0
+Male,Standard,No one,False,,0,0,0,0,0,0
+Male,Premium,No one,True,"orange, passion_fruit",0,0,0,0,1,1
+Male,Standard,Jeffrey,True,,0,0,0,0,0,0
+Male,Standard,No one,False,,0,0,0,0,0,0
+Male,Premium,No one,True,,0,0,0,0,0,0
+Male,Standard,No one,True,,0,0,0,0,0,0
+Female,Standard,No one,True,,0,0,0,0,0,0
+Male,Premium,No one,True,,0,0,0,0,0,0
+Male,Standard,No one,False,,0,0,0,0,0,0
+Male,Premium,Hanna,False,"lemon, coconut_pineapple",0,0,1,1,0,0
+Female,Standard,No one,False,,0,0,0,0,0,0
+Female,Standard,No one,True,coconut_pineapple,0,0,1,0,0,0
+Female,Standard,Chantal,False,"coconut_pineapple, black_currant",0,1,1,0,0,0
+Female,Premium,Mike,False,,0,0,0,0,0,0
+Male,Premium,No one,True,"black_currant, coconut_pineapple",0,1,1,0,0,0
+Female,Standard,No one,True,berry_boost,1,0,0,0,0,0
+Female,Standard,No one,True,lemon,0,0,0,1,0,0
+Female,Premium,No one,False,,0,0,0,0,0,0
+Male,Premium,Chantal,False,,0,0,0,0,0,0
+Male,Standard,Jeffrey,True,,0,0,0,0,0,0
+Female,Premium,No one,False,lemon,0,0,0,1,0,0
+Male,Standard,No one,True,,0,0,0,0,0,0
+Female,Standard,No one,False,,0,0,0,0,0,0
+Female,Standard,Jeffrey,False,"berry_boost, orange",1,0,0,0,1,0
+Female,Premium,No one,True,"passion_fruit, orange",0,0,0,0,1,1
+Female,Standard,Hanna,True,passion_fruit,0,0,0,0,0,1
+Male,Premium,No one,False,"orange, black_currant",0,1,0,0,1,0
+Male,Standard,Jeffrey,False,,0,0,0,0,0,0
+Female,Premium,Mike,False,black_currant,0,1,0,0,0,0
+Male,Premium,Hanna,True,passion_fruit,0,0,0,0,0,1
+Male,Standard,No one,True,orange,0,0,0,0,1,0
+Female,Standard,No one,True,"coconut_pineapple, berry_boost",1,0,1,0,0,0
+Male,Standard,Chantal,True,,0,0,0,0,0,0
+Female,Premium,No one,True,orange,0,0,0,0,1,0
+Male,Standard,No one,True,,0,0,0,0,0,0
+Male,Premium,Chantal,False,,0,0,0,0,0,0
+Female,Standard,Jeffrey,False,,0,0,0,0,0,0
+Male,Premium,No one,True,passion_fruit,0,0,0,0,0,1
+Male,Premium,Hanna,False,,0,0,0,0,0,0
+Female,Premium,Hanna,False,,0,0,0,0,0,0
+Female,Standard,Jeffrey,False,"passion_fruit, coconut_pineapple",0,0,1,0,0,1
+Female,Standard,Mike,True,,0,0,0,0,0,0
+Female,Standard,No one,False,"black_currant, lemon",0,1,0,1,0,0
+Female,Standard,No one,False,black_currant,0,1,0,0,0,0
+Male,Standard,Mike,False,black_currant,0,1,0,0,0,0
+Male,Standard,Chantal,False,"passion_fruit, black_currant",0,1,0,0,0,1
+Male,Premium,Jeffrey,True,,0,0,0,0,0,0
+Female,Premium,No one,False,berry_boost,1,0,0,0,0,0
+Female,Standard,No one,True,,0,0,0,0,0,0
+Male,Standard,No one,True,"coconut_pineapple, orange",0,0,1,0,1,0
+Male,Premium,Mike,True,black_currant,0,1,0,0,0,0
+Male,Premium,Jeffrey,True,passion_fruit,0,0,0,0,0,1
+Male,Standard,No one,True,"passion_fruit, coconut_pineapple",0,0,1,0,0,1
+Female,Standard,Hanna,False,orange,0,0,0,0,1,0
+Male,Premium,Chantal,True,,0,0,0,0,0,0
+Male,Premium,Hanna,True,,0,0,0,0,0,0
+Male,Standard,No one,True,"coconut_pineapple, orange",0,0,1,0,1,0
+Female,Premium,Mike,False,"orange, berry_boost",1,0,0,0,1,0
+Female,Standard,No one,False,"coconut_pineapple, lemon",0,0,1,1,0,0
+Male,Standard,Hanna,False,,0,0,0,0,0,0
+Male,Standard,Chantal,False,,0,0,0,0,0,0
+Female,Standard,No one,True,,0,0,0,0,0,0
+Male,Premium,Mike,True,black_currant,0,1,0,0,0,0
+Female,Standard,Mike,True,,0,0,0,0,0,0
+Male,Premium,No one,True,,0,0,0,0,0,0
+Male,Standard,No one,False,"passion_fruit, orange",0,0,0,0,1,1
+Male,Standard,No one,False,,0,0,0,0,0,0
+Male,Standard,No one,False,,0,0,0,0,0,0
+Male,Premium,Chantal,False,coconut_pineapple,0,0,1,0,0,0
+Male,Standard,Jeffrey,False,"orange, coconut_pineapple",0,0,1,0,1,0
+Male,Premium,No one,True,"berry_boost, lemon",1,0,0,1,0,0
+Male,Premium,Chantal,True,,0,0,0,0,0,0
+Female,Premium,Hanna,True,,0,0,0,0,0,0
+Male,Premium,No one,False,,0,0,0,0,0,0
+Male,Premium,No one,True,,0,0,0,0,0,0
+Female,Premium,No one,True,,0,0,0,0,0,0
+Male,Standard,Chantal,True,black_currant,0,1,0,0,0,0
+Male,Premium,Chantal,True,,0,0,0,0,0,0
+Female,Premium,Hanna,False,passion_fruit,0,0,0,0,0,1
+Female,Premium,Hanna,True,"orange, coconut_pineapple",0,0,1,0,1,0
+Male,Standard,No one,True,coconut_pineapple,0,0,1,0,0,0
+Male,Premium,No one,False,,0,0,0,0,0,0
+Female,Standard,Jeffrey,False,,0,0,0,0,0,0
+Male,Premium,Chantal,True,,0,0,0,0,0,0
+Male,Premium,No one,False,"black_currant, berry_boost",1,1,0,0,0,0
+Female,Standard,Jeffrey,True,coconut_pineapple,0,0,1,0,0,0
+Female,Premium,No one,True,orange,0,0,0,0,1,0
+Female,Premium,No one,True,,0,0,0,0,0,0
+Male,Standard,No one,False,"coconut_pineapple, orange",0,0,1,0,1,0
+Male,Standard,No one,False,"coconut_pineapple, black_currant",0,1,1,0,0,0
+Male,Standard,Mike,False,,0,0,0,0,0,0
+Male,Premium,Mike,False,orange,0,0,0,0,1,0
+Female,Standard,No one,False,passion_fruit,0,0,0,0,0,1
+Male,Premium,No one,True,,0,0,0,0,0,0
+Male,Standard,Mike,True,,0,0,0,0,0,0
+Male,Premium,Mike,True,,0,0,0,0,0,0
+Female,Premium,No one,False,,0,0,0,0,0,0
+Female,Standard,No one,False,,0,0,0,0,0,0
+Female,Standard,No one,False,lemon,0,0,0,1,0,0
+Female,Standard,Jeffrey,False,coconut_pineapple,0,0,1,0,0,0
+Female,Premium,No one,True,"berry_boost, orange",1,0,0,0,1,0
+Female,Standard,Chantal,True,,0,0,0,0,0,0
+Female,Standard,No one,False,,0,0,0,0,0,0
+Male,Premium,No one,False,,0,0,0,0,0,0
+Male,Premium,No one,True,coconut_pineapple,0,0,1,0,0,0
+Female,Standard,Jeffrey,False,,0,0,0,0,0,0
+Male,Standard,No one,False,lemon,0,0,0,1,0,0
+Male,Premium,Chantal,True,,0,0,0,0,0,0
+Male,Standard,Mike,False,passion_fruit,0,0,0,0,0,1
+Female,Standard,No one,False,berry_boost,1,0,0,0,0,0
+Female,Premium,Mike,True,"coconut_pineapple, orange",0,0,1,0,1,0
+Male,Premium,No one,False,"berry_boost, coconut_pineapple",1,0,1,0,0,0
+Male,Standard,No one,False,orange,0,0,0,0,1,0
+Female,Premium,Chantal,False,,0,0,0,0,0,0
+Male,Premium,Chantal,False,"coconut_pineapple, berry_boost",1,0,1,0,0,0
+Male,Standard,Jeffrey,False,"orange, coconut_pineapple",0,0,1,0,1,0
+Female,Standard,No one,True,lemon,0,0,0,1,0,0
+Male,Premium,Chantal,False,"coconut_pineapple, orange",0,0,1,0,1,0
+Female,Premium,Mike,True,,0,0,0,0,0,0
+Female,Standard,Chantal,False,,0,0,0,0,0,0
+Male,Standard,Chantal,False,passion_fruit,0,0,0,0,0,1
+Male,Premium,No one,False,,0,0,0,0,0,0
+Female,Premium,No one,False,black_currant,0,1,0,0,0,0
+Male,Premium,No one,True,coconut_pineapple,0,0,1,0,0,0
+Female,Premium,Hanna,True,"lemon, orange",0,0,0,1,1,0
+Male,Premium,No one,True,,0,0,0,0,0,0
+Female,Standard,Mike,False,"orange, passion_fruit",0,0,0,0,1,1
+Female,Premium,No one,True,,0,0,0,0,0,0
+Male,Premium,Hanna,True,"lemon, orange",0,0,0,1,1,0
+Female,Premium,Hanna,True,orange,0,0,0,0,1,0
+Male,Standard,Mike,False,,0,0,0,0,0,0
+Female,Standard,Hanna,True,,0,0,0,0,0,0
+Female,Standard,No one,True,,0,0,0,0,0,0
+Female,Premium,No one,False,"orange, coconut_pineapple",0,0,1,0,1,0
+Female,Standard,No one,True,,0,0,0,0,0,0
+Male,Standard,No one,False,coconut_pineapple,0,0,1,0,0,0
+Female,Premium,Jeffrey,False,"coconut_pineapple, black_currant",0,1,1,0,0,0
+Male,Standard,Jeffrey,False,"berry_boost, black_currant",1,1,0,0,0,0
+Female,Standard,No one,False,"berry_boost, orange",1,0,0,0,1,0
+Female,Premium,Chantal,True,,0,0,0,0,0,0
+Male,Standard,No one,False,,0,0,0,0,0,0
+Female,Standard,No one,False,"black_currant, coconut_pineapple",0,1,1,0,0,0
+Male,Standard,Mike,True,,0,0,0,0,0,0
+Female,Standard,Jeffrey,True,"berry_boost, black_currant",1,1,0,0,0,0
+Male,Standard,Chantal,True,orange,0,0,0,0,1,0
+Male,Standard,Chantal,True,black_currant,0,1,0,0,0,0
+Female,Standard,No one,True,,0,0,0,0,0,0
+Female,Premium,No one,False,lemon,0,0,0,1,0,0
+Female,Standard,No one,False,,0,0,0,0,0,0
+Female,Premium,Hanna,True,,0,0,0,0,0,0
+Female,Standard,No one,True,passion_fruit,0,0,0,0,0,1
+Male,Premium,Mike,False,,0,0,0,0,0,0
+Female,Premium,Jeffrey,True,lemon,0,0,0,1,0,0
+Female,Premium,No one,False,,0,0,0,0,0,0
+Female,Premium,No one,False,,0,0,0,0,0,0
+Female,Premium,Hanna,False,orange,0,0,0,0,1,0
+Female,Premium,No one,False,berry_boost,1,0,0,0,0,0
+Male,Premium,Chantal,False,"orange, berry_boost",1,0,0,0,1,0
+Male,Premium,Jeffrey,False,,0,0,0,0,0,0
+Male,Premium,Hanna,True,,0,0,0,0,0,0
+Male,Standard,No one,False,"berry_boost, orange",1,0,0,0,1,0
+Female,Standard,Chantal,True,berry_boost,1,0,0,0,0,0
+Female,Premium,No one,False,,0,0,0,0,0,0
+Male,Standard,Mike,False,orange,0,0,0,0,1,0
+Female,Standard,Jeffrey,False,coconut_pineapple,0,0,1,0,0,0
+Male,Standard,No one,True,,0,0,0,0,0,0
+Female,Standard,No one,False,,0,0,0,0,0,0
+Female,Standard,No one,True,,0,0,0,0,0,0
+Female,Premium,No one,False,,0,0,0,0,0,0
+Male,Premium,Chantal,True,"orange, black_currant",0,1,0,0,1,0
+Female,Standard,No one,True,,0,0,0,0,0,0
+Female,Standard,No one,True,passion_fruit,0,0,0,0,0,1
+Male,Premium,Mike,False,,0,0,0,0,0,0
+Female,Standard,No one,True,lemon,0,0,0,1,0,0
+Male,Standard,No one,False,,0,0,0,0,0,0
+Female,Premium,Hanna,False,,0,0,0,0,0,0
+Male,Premium,Hanna,True,,0,0,0,0,0,0
+Male,Premium,Mike,False,"berry_boost, passion_fruit",1,0,0,0,0,1
+Male,Standard,Mike,True,berry_boost,1,0,0,0,0,0
+Female,Premium,No one,True,,0,0,0,0,0,0
+Female,Standard,Hanna,True,,0,0,0,0,0,0
+Male,Standard,Hanna,False,passion_fruit,0,0,0,0,0,1
+Female,Premium,Hanna,False,,0,0,0,0,0,0
+Female,Standard,Chantal,False,black_currant,0,1,0,0,0,0
+Male,Premium,Chantal,True,"coconut_pineapple, lemon",0,0,1,1,0,0
+Male,Standard,Mike,False,,0,0,0,0,0,0
+Female,Standard,Hanna,True,,0,0,0,0,0,0
+Female,Standard,Hanna,False,,0,0,0,0,0,0
+Female,Standard,No one,False,"orange, black_currant",0,1,0,0,1,0
+Female,Standard,Chantal,True,,0,0,0,0,0,0
+Female,Premium,Mike,False,"black_currant, coconut_pineapple",0,1,1,0,0,0
+Male,Premium,Mike,True,"passion_fruit, orange",0,0,0,0,1,1
+Male,Standard,Hanna,True,,0,0,0,0,0,0
+Male,Standard,Hanna,True,,0,0,0,0,0,0
+Male,Standard,Mike,True,,0,0,0,0,0,0
+Male,Standard,No one,True,lemon,0,0,0,1,0,0
+Female,Premium,Jeffrey,False,,0,0,0,0,0,0
+Male,Standard,Mike,True,black_currant,0,1,0,0,0,0
+Female,Standard,No one,True,"berry_boost, coconut_pineapple",1,0,1,0,0,0
+Female,Standard,Hanna,True,,0,0,0,0,0,0
+Male,Premium,No one,False,,0,0,0,0,0,0
+Female,Premium,No one,False,"berry_boost, lemon",1,0,0,1,0,0
+Male,Premium,No one,True,berry_boost,1,0,0,0,0,0
+Female,Standard,Mike,False,,0,0,0,0,0,0
+Female,Premium,No one,True,"passion_fruit, berry_boost",1,0,0,0,0,1
+Female,Premium,Jeffrey,False,,0,0,0,0,0,0
+Male,Premium,No one,True,,0,0,0,0,0,0
+Female,Premium,No one,False,"orange, black_currant",0,1,0,0,1,0
+Female,Premium,No one,False,black_currant,0,1,0,0,0,0
+Male,Standard,Mike,False,"passion_fruit, coconut_pineapple",0,0,1,0,0,1
+Male,Premium,No one,True,"berry_boost, orange",1,0,0,0,1,0
+Male,Premium,Hanna,True,,0,0,0,0,0,0
+Male,Standard,Hanna,True,,0,0,0,0,0,0
+Female,Premium,Chantal,True,,0,0,0,0,0,0
+Female,Standard,Mike,False,,0,0,0,0,0,0
+Female,Standard,Mike,False,"orange, passion_fruit",0,0,0,0,1,1
+Female,Standard,Mike,True,"orange, berry_boost",1,0,0,0,1,0
+Male,Standard,No one,False,,0,0,0,0,0,0
+Female,Premium,No one,True,"berry_boost, coconut_pineapple",1,0,1,0,0,0
+Male,Standard,No one,True,,0,0,0,0,0,0
+Male,Standard,No one,False,"berry_boost, lemon",1,0,0,1,0,0
+Female,Premium,Jeffrey,False,"passion_fruit, orange",0,0,0,0,1,1
+Male,Premium,No one,False,,0,0,0,0,0,0
+Female,Standard,No one,True,passion_fruit,0,0,0,0,0,1
+Male,Standard,Hanna,False,,0,0,0,0,0,0
+Female,Premium,No one,False,,0,0,0,0,0,0
+Female,Premium,Chantal,False,orange,0,0,0,0,1,0
+Female,Premium,Chantal,True,"orange, coconut_pineapple",0,0,1,0,1,0
+Male,Standard,Jeffrey,True,,0,0,0,0,0,0
+Female,Standard,Hanna,True,,0,0,0,0,0,0
+Female,Premium,No one,True,,0,0,0,0,0,0
+Male,Standard,No one,False,orange,0,0,0,0,1,0
+Female,Standard,No one,False,,0,0,0,0,0,0
+Female,Standard,No one,False,,0,0,0,0,0,0
+Male,Premium,No one,True,"orange, berry_boost",1,0,0,0,1,0
+Female,Premium,Mike,True,passion_fruit,0,0,0,0,0,1
+Male,Premium,No one,False,,0,0,0,0,0,0
+Male,Premium,Hanna,False,passion_fruit,0,0,0,0,0,1
+Male,Premium,No one,True,,0,0,0,0,0,0
+Male,Standard,Mike,True,,0,0,0,0,0,0
+Male,Premium,Jeffrey,True,"berry_boost, orange",1,0,0,0,1,0
+Female,Standard,No one,False,,0,0,0,0,0,0
+Male,Premium,Hanna,False,,0,0,0,0,0,0
+Female,Premium,Hanna,True,"coconut_pineapple, passion_fruit",0,0,1,0,0,1
+Female,Premium,No one,True,,0,0,0,0,0,0
+Female,Premium,No one,True,"orange, black_currant",0,1,0,0,1,0
+Male,Standard,No one,True,,0,0,0,0,0,0
+Female,Standard,Mike,True,,0,0,0,0,0,0
+Female,Premium,No one,False,coconut_pineapple,0,0,1,0,0,0
+Female,Standard,No one,True,,0,0,0,0,0,0
+Female,Premium,Jeffrey,False,,0,0,0,0,0,0
+Female,Premium,Chantal,True,,0,0,0,0,0,0
+Female,Premium,No one,False,,0,0,0,0,0,0
+Male,Standard,Mike,False,,0,0,0,0,0,0
+Male,Standard,No one,False,"berry_boost, black_currant",1,1,0,0,0,0
+Female,Standard,No one,True,,0,0,0,0,0,0
+Male,Premium,Chantal,True,"lemon, coconut_pineapple",0,0,1,1,0,0
+Male,Premium,No one,True,"berry_boost, black_currant",1,1,0,0,0,0
+Female,Standard,No one,True,,0,0,0,0,0,0
+Female,Standard,No one,False,lemon,0,0,0,1,0,0
+Male,Standard,No one,False,"black_currant, passion_fruit",0,1,0,0,0,1
+Male,Premium,No one,True,lemon,0,0,0,1,0,0
+Female,Standard,No one,True,"passion_fruit, coconut_pineapple",0,0,1,0,0,1
+Male,Standard,No one,False,,0,0,0,0,0,0
+Male,Standard,No one,True,coconut_pineapple,0,0,1,0,0,0
+Female,Standard,No one,False,black_currant,0,1,0,0,0,0
+Male,Premium,No one,False,"passion_fruit, black_currant",0,1,0,0,0,1
+Female,Standard,No one,False,passion_fruit,0,0,0,0,0,1
+Female,Premium,No one,False,,0,0,0,0,0,0
+Female,Standard,Chantal,False,"berry_boost, orange",1,0,0,0,1,0
+Female,Standard,Jeffrey,False,,0,0,0,0,0,0
+Male,Premium,Jeffrey,True,"coconut_pineapple, berry_boost",1,0,1,0,0,0
+Female,Premium,No one,False,"lemon, berry_boost",1,0,0,1,0,0
+Male,Standard,Chantal,False,,0,0,0,0,0,0
+Male,Standard,Hanna,False,"berry_boost, coconut_pineapple",1,0,1,0,0,0
+Female,Premium,No one,False,berry_boost,1,0,0,0,0,0
+Male,Premium,No one,True,,0,0,0,0,0,0
+Female,Premium,No one,False,lemon,0,0,0,1,0,0
+Female,Standard,No one,False,,0,0,0,0,0,0
+Male,Premium,No one,False,"coconut_pineapple, lemon",0,0,1,1,0,0
+Female,Premium,Mike,False,"black_currant, coconut_pineapple",0,1,1,0,0,0
+Female,Premium,No one,True,,0,0,0,0,0,0
+Female,Standard,No one,False,,0,0,0,0,0,0
+Male,Premium,No one,True,orange,0,0,0,0,1,0
+Male,Premium,No one,True,orange,0,0,0,0,1,0
+Male,Standard,Mike,True,black_currant,0,1,0,0,0,0
+Female,Premium,Jeffrey,True,berry_boost,1,0,0,0,0,0
+Female,Premium,No one,False,coconut_pineapple,0,0,1,0,0,0
+Male,Premium,Hanna,True,,0,0,0,0,0,0
+Male,Standard,Mike,False,,0,0,0,0,0,0
+Male,Standard,Mike,False,coconut_pineapple,0,0,1,0,0,0
+Female,Standard,Chantal,False,,0,0,0,0,0,0
+Female,Standard,Jeffrey,True,,0,0,0,0,0,0
+Male,Premium,Hanna,True,,0,0,0,0,0,0
+Female,Standard,Mike,True,,0,0,0,0,0,0
+Female,Premium,No one,False,,0,0,0,0,0,0
+Male,Standard,Hanna,False,,0,0,0,0,0,0
+Female,Standard,Chantal,False,,0,0,0,0,0,0
+Female,Premium,No one,False,,0,0,0,0,0,0
+Male,Standard,Chantal,True,,0,0,0,0,0,0
+Female,Standard,No one,False,"berry_boost, orange",1,0,0,0,1,0
+Male,Premium,Mike,True,,0,0,0,0,0,0
+Male,Standard,Mike,True,lemon,0,0,0,1,0,0
+Female,Premium,No one,True,"lemon, coconut_pineapple",0,0,1,1,0,0
+Female,Premium,Mike,True,,0,0,0,0,0,0
+Female,Standard,No one,True,lemon,0,0,0,1,0,0
+Female,Premium,Hanna,False,black_currant,0,1,0,0,0,0
+Female,Standard,Chantal,True,,0,0,0,0,0,0
+Female,Premium,No one,False,lemon,0,0,0,1,0,0
+Female,Standard,Jeffrey,True,"berry_boost, black_currant",1,1,0,0,0,0
+Male,Premium,No one,True,,0,0,0,0,0,0
+Male,Standard,Mike,True,,0,0,0,0,0,0
+Male,Standard,No one,False,,0,0,0,0,0,0
+Male,Premium,Hanna,True,,0,0,0,0,0,0
+Female,Standard,Jeffrey,False,,0,0,0,0,0,0
+Female,Standard,Mike,False,,0,0,0,0,0,0
+Male,Standard,Mike,False,,0,0,0,0,0,0
+Male,Premium,Mike,True,,0,0,0,0,0,0
+Female,Premium,No one,True,berry_boost,1,0,0,0,0,0
+Male,Premium,Hanna,True,coconut_pineapple,0,0,1,0,0,0
+Male,Standard,No one,True,,0,0,0,0,0,0
+Female,Premium,Mike,True,,0,0,0,0,0,0
+Male,Standard,Hanna,True,"berry_boost, coconut_pineapple",1,0,1,0,0,0
+Female,Premium,No one,False,orange,0,0,0,0,1,0
+Male,Standard,Mike,True,"orange, berry_boost",1,0,0,0,1,0
+Male,Standard,No one,False,coconut_pineapple,0,0,1,0,0,0
+Male,Premium,No one,True,lemon,0,0,0,1,0,0
+Male,Standard,No one,True,,0,0,0,0,0,0
+Female,Standard,No one,False,,0,0,0,0,0,0
+Female,Standard,Mike,False,,0,0,0,0,0,0
+Male,Premium,Mike,False,berry_boost,1,0,0,0,0,0
+Male,Standard,Mike,True,black_currant,0,1,0,0,0,0
+Female,Premium,No one,False,coconut_pineapple,0,0,1,0,0,0
+Male,Standard,Hanna,True,"lemon, black_currant",0,1,0,1,0,0
+Female,Premium,Chantal,True,orange,0,0,0,0,1,0
+Male,Premium,No one,True,"black_currant, lemon",0,1,0,1,0,0
+Female,Standard,Chantal,False,,0,0,0,0,0,0
+Male,Premium,No one,False,,0,0,0,0,0,0
+Female,Standard,Chantal,False,,0,0,0,0,0,0
+Male,Premium,Chantal,False,,0,0,0,0,0,0
+Female,Standard,Chantal,False,lemon,0,0,0,1,0,0
+Male,Standard,Hanna,False,"coconut_pineapple, passion_fruit",0,0,1,0,0,1
+Female,Standard,No one,True,"berry_boost, black_currant",1,1,0,0,0,0
+Female,Standard,No one,False,,0,0,0,0,0,0
+Female,Standard,No one,True,"orange, lemon",0,0,0,1,1,0
+Male,Standard,Jeffrey,True,"coconut_pineapple, black_currant",0,1,1,0,0,0
+Male,Standard,Jeffrey,False,berry_boost,1,0,0,0,0,0
+Female,Premium,No one,False,"passion_fruit, coconut_pineapple",0,0,1,0,0,1
