@@ -113,7 +113,7 @@ with tab3:
         st.info("💡 **Strategy Recommendation:** Target these members with promotions for post-workout recovery packages, premium protein shakes, or weekend personal training sessions.")
         
     # Display the targeted audience
-    st.dataframe(target_df[['gender', 'abonoment_type', 'visit_per_week', 'fav_drink']].head(10))
+    st.dataframe(target_df[['gender', 'abonoment_type', 'visit_per_week', 'drink_abo']].head(10))
     
     # Convert data for download button
     csv_data = target_df.to_csv(index=False).encode('utf-8')
